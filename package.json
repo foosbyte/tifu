@@ -1,0 +1,27 @@
+{
+  "name": "tifu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rimraf dist/ && babel src/ -d dist/",
+    "build:watch": "npm run build -- --watch",
+    "test": "jest",
+    "test:watch": "npm run test -- --watch",
+    "fmt": "prettier --write --single-quote --trailing-comma=all --tab-width=4 'src/**/*.js'"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "1.0.0-rc.2",
+    "moment": "2.18.1",
+    "request": "2.81.0"
+  },
+  "devDependencies": {
+    "babel-cli": "6.24.1",
+    "babel-preset-env": "1.6.0",
+    "jest": "20.0.4",
+    "prettier": "1.5.3",
+    "rimraf": "2.6.1"
+  }
+}
