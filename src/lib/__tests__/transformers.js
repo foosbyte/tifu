@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import jest from 'jest';
-import { list, preregistrations } from '../transformers';
+import { list, preregistrations, registrations } from '../transformers';
 
 function loadFixture(name) {
     const fixtures = path.join(__dirname, '../../../fixtures');
@@ -71,6 +71,24 @@ describe('Preregistrations', () => {
         expect(
             attendees.filter(p => p.event === 'senioren doppel'),
         ).toHaveLength(3);
+        expect(attendees).toMatchSnapshot();
+    });
+});
+
+describe('Registrations', () => {
+    let attendees;
+    let html;
+
+    beforeAll(() => {
+        html = loadFixture('turnier_anmeldungen.php.html');
+    });
+
+    beforeEach(() => {
+        attendees = registrations(html);
+    });
+
+    it('should find a list of registered players', () => {
+        expect(attendees).toHaveLength(113);
         expect(attendees).toMatchSnapshot();
     });
 });

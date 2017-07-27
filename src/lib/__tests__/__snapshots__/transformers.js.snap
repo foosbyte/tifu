@@ -7964,3 +7964,460 @@ Array [
   },
 ]
 `;
+
+exports[`Registrations should find a list of registered players 1`] = `
+Array [
+  Object {
+    "event": "offenes doppel",
+    "team": "Albers, Michael / Seikowski, Jan",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Alferding, Carsten / Lindemann, Axel",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Applis, Leonhard / Heßmer, Dominik",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Bade, Matthias / Frommeyer, Henning",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Bai, Minyoung / Mensah, Semin",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Bakis, Ümit / Schuster, Sebastian",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Baumeister, Andre / Raymond, Noah",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Berhorst, Christian / Cordes, Christina",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Bielefeld, Stefan / Lange, Jennifer",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Bonin, Martin / Greve, Jona",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Braje, Markus / Luttmann, Robert",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Braun, Matthias / Knipping, Sascha",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Buder, Matthias / Höhne, Andreas",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Colaklar, Timur / Okur, Atacan",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "D'Amore, Giovanni / Wegener, Tim",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Di Bello, Alexander / Agostinis, Ferhat",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Dijkstra, Harmen / Bodewes, Boudewijn",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Dörjes, Noah / Soppe, Philipp",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Dörjes, Noah / Soppe, Philipp",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Ecker, Ralf / Kürten, Alladin",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Frauenhoffer, Artur / Dose, Helge",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Freystein, Christian / Mess, Andre",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Frosch, Marcel / Feucht, Kilian",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Gisder, Fabian / Christophers, Eike",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Haas, Thomas / Struth, Benjamin",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Hammelrath, Bettina / Heitmeier, Jan",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Hardt, Christoph / Scharfenberg, Jeremias",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Heise, Christian / Gawenat, Dennis",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Heitmann, Linus / Fromme, Alexander",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Hennig, Markus / Wagner, Thorsten",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Höhne, Thomas / Günther, Bela",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Höning, Malte / Bleck, Dustin",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Horn, Robert / Römer, Carsten",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Hovermann, Jens / Honsel, Christian",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Hüwe, Alexander / Manai, Imed",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Kanagarajah, Raphael / Grobbel, Florian",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Kaufmann, Mike / Krumbeck, Johannes",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Kissel, Sebastian / Bentfeld, Lukas",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Koch, Fabian / Koch, Andre",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "König, Kyrill / Höke, Christof",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Krimmer, Sebastian / Kiehl, Alexander",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Kroll, Thomas / König, Tommy",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Landgraf, Georg / Pieper, Jannik",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Langer, Jonas / Pols, Andre-Florian",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Lehmann, Thomas / Weitzner, Bastian",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Liesenfeld, Matthias / Ellis, Jason Mark",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Majewski, Jan / Ebenau, Matthias",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Malcherek, Michael / Kampermann, Michael",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Manthey, Henrike / Hahn, Hinrich",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Marino Gonzalez, Sophia / Sintara, Norbert",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Mauro, Christian / Ulmer, Nils-David",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Meironke, Christoph / Müller, Jan",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Mésbahi, Farid / Große, Christian",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Mielke, Jürgen / Kirchgessner, Thomas",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Müller, Dirk / Bremer, Martin",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Müller, Felix / Marx, Wilts Arved",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Neumann, Steffen / Damm, Katrin",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Niemann, Henning / Friedrichs, Nick",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Oberhellmann, Sascha / Zysik, Christopher",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Olbrich, Pascal / Lahner, Jörn",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Otten, Yuri / Neefs, Tim",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Pawlak, Felix / Komnenic, Angelo",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Petersen, Horst / Freigang, Sascha",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Petzold, Jan / Greitemeyer, Verena",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Pfingst, Dominik / Wagner, Ralf",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Plogmann, Hendrik / Rottmann, Christopher",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Pöche, Daniel / Hillmann, Sebastian",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Pohl, Marvin / Schmitz, Dominik",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Porrmann, Maura / Kniepert, Cornelius",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Porrmann, Till / Bednarek, Philipp",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Postma, Wilke / Greiner, Wolf",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Potyka, Benjamnin / Dux, Andre",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Pützschler, Thorben / Köstring, Tobias",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Raschke, Christian / Holtkamp, Mona",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Rathgeb, Markus / Kahve, Muhamber",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Rautenberg, Tim / Lorenz, Siegfried",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Retzlaff, Andreas / Laschtowitz, Gerrit",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Roth, Antje / Lange, Christoph",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Schindler, Thomas / Maike, Simon",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Schmal, Chris / Woermann, Martin",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Serpé, Christian / Rossol, Holger",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Sielaff, Pascal / Widera, Lukas",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Silaff, Patrick / Lachetta, Mario",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Simon, Christian / Simon, Sebastian",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Steeger, Susanne / Dahlmann, Erik",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Steinbrink, Björn / Klassen, Julian",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Stoffel, Frank / Dittrich, Rudi",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Stoffel, Marc / Grünkorn, Torsten",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Thölke, Maximilian / Wohlgemuth, Nico",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Tischbier, Benjamin / Bauch, Joshua",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Toprak, Adnan / Demir, Betu",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Tünnermann, Jan / Tünnermann, Maike",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Uhlemann, Jens / Winters, Sander",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "van Schijndel, Thijs / Chamuleau, Raoul",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Velasco, Maurice / Kamczyk, Patrik",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Voigtländer, Felix / Olmer, Janek",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Vrbic, Branko / Schenk, Alexander",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Walraven, Heidi / Scott, Sean",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Walter, Simon / Paulsen, Axel",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Waschek, Jennifer / Neuber, Patrick",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Weber, Andrea / Kupietz, Peter",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Wehmeier, Sven / Haasio, Lars",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Wehrenfennig, Stefanie / Wolfram, Christian",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Weiß, Tobias / Mühleis, Sebastian",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Werner, Carsten / Kehne, Daniel",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Werner, Kai / Daube, Christian",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Wiarda, Jan / Stumpe, Danny",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Wiechers, David / Kaufmann, Pascal",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Wohltorf, Yannik / Blume, Harald",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Wolf, Rike / Fuchs, Fabian",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Wortmann, Julian / Hahne, Nils",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Yagimli, Mahir / Statt, André",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Youn, De-Won / Gausling, Stefan",
+  },
+]
+`;
