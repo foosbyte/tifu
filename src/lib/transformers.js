@@ -3,8 +3,9 @@ import querystring from 'querystring';
 import $ from 'cheerio';
 import moment from 'moment';
 
-const dateFormat = 'DD.MM.YYYY HH:mm';
-const states = {
+const FAKE_LINK = 'http://some.tld';
+const DATE_FORMAT = 'DD.MM.YYYY HH:mm';
+const STATES = {
     'laufende turniere': 'active',
     'geplante turniere': 'planned',
     'beendete turniere': 'ended',
@@ -16,11 +17,11 @@ export function list(html) {
             const nthtd = num => $(row).find(`td:nth-child(${num})`);
             const caption = $(row).parents('table').find('caption').text();
 
-            const date = moment(nthtd(1).text(), dateFormat).valueOf();
+            const date = moment(nthtd(1).text(), DATE_FORMAT).valueOf();
             const title = nthtd(2).find('a').text();
-            const link = 'http://some.tld/' + nthtd(2).find('a').attr('href');
+            const link = FAKE_LINK + nthtd(2).find('a').attr('href');
             const location = nthtd(3).text();
-            const state = states[caption.toLocaleLowerCase()];
+            const state = STATES[caption.toLocaleLowerCase()];
 
             return !(date && title && link && location && state)
                 ? null
