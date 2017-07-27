@@ -1,5 +1,126 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`Final standings should find 29 teams 1`] = `
+Array [
+  Object {
+    "position": 1,
+    "team": "Patrick Lopez Fernandez",
+  },
+  Object {
+    "position": 2,
+    "team": "Thomas Holzbrecher",
+  },
+  Object {
+    "position": 3,
+    "team": "Tom Wohlfahrt",
+  },
+  Object {
+    "position": 4,
+    "team": "Nikolai Tschacher",
+  },
+  Object {
+    "position": 5,
+    "team": "Hans-Georg Prengel",
+  },
+  Object {
+    "position": 6,
+    "team": "Paul Götz",
+  },
+  Object {
+    "position": 7,
+    "team": "Peer Junge",
+  },
+  Object {
+    "position": 8,
+    "team": "Wieland Hagen",
+  },
+  Object {
+    "position": 9,
+    "team": "Armus Igor",
+  },
+  Object {
+    "position": 10,
+    "team": "Robin Köppe",
+  },
+  Object {
+    "position": 11,
+    "team": "Martin Lütke",
+  },
+  Object {
+    "position": 12,
+    "team": "Justus Adam",
+  },
+  Object {
+    "position": 13,
+    "team": "Peter Knoll",
+  },
+  Object {
+    "position": 14,
+    "team": "Frank Spieß",
+  },
+  Object {
+    "position": 15,
+    "team": "Rainer Fu",
+  },
+  Object {
+    "position": 16,
+    "team": "Martin Kruse",
+  },
+  Object {
+    "position": 17,
+    "team": "Frank Motikat",
+  },
+  Object {
+    "position": 18,
+    "team": "Matias Stanojevic Cardenas",
+  },
+  Object {
+    "position": 19,
+    "team": "Sebastian Sabellek",
+  },
+  Object {
+    "position": 20,
+    "team": "Marcel Krüger",
+  },
+  Object {
+    "position": 21,
+    "team": "Milan Eßer",
+  },
+  Object {
+    "position": 22,
+    "team": "Julia Steinhorst",
+  },
+  Object {
+    "position": 23,
+    "team": "Safet Redjepov",
+  },
+  Object {
+    "position": 24,
+    "team": "Franziska Salomon",
+  },
+  Object {
+    "position": 25,
+    "team": "Uwe Armbruster",
+  },
+  Object {
+    "position": 26,
+    "team": "Ali Macula",
+  },
+  Object {
+    "position": 27,
+    "team": "Bassem Abdelkebir",
+  },
+  Object {
+    "position": 28,
+    "team": "Björn Perschmann",
+  },
+  Object {
+    "position": 29,
+    "team": "Simon Fremgen",
+  },
+]
+`;
+
 exports[`List of tournaments should find 392 ended tournaments 1`] = `
 Array [
   Object {

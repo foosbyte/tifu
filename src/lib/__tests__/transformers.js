@@ -6,6 +6,7 @@ import {
     preregistrations,
     registrations,
     preliminaryStandings,
+    standings,
 } from '../transformers';
 
 function loadFixture(name) {
@@ -113,5 +114,23 @@ describe('Preliminary standings', () => {
     it('should find 7 teams', () => {
         expect(standings).toHaveLength(7);
         expect(standings).toMatchSnapshot();
+    });
+});
+
+describe('Final standings', () => {
+    let table;
+    let html;
+
+    beforeAll(() => {
+        html = loadFixture('disziplin_endplatzierungen.php.html');
+    });
+
+    beforeEach(() => {
+        table = standings(html);
+    });
+
+    it('should find 29 teams', () => {
+        expect(table).toHaveLength(29);
+        expect(table).toMatchSnapshot();
     });
 });

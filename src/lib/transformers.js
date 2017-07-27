@@ -107,3 +107,23 @@ export function preliminaryStandings(html) {
         .get()
         .filter(Boolean);
 }
+
+export function standings(html) {
+    return $('tr', html)
+        .map((_, row) => {
+            const position = parseInt(
+                $(row).find('td:nth-child(1)').text(),
+                10,
+            );
+            const team = $(row).find('td:nth-child(2)').text();
+
+            return !(position && team)
+                ? null
+                : {
+                      position,
+                      team,
+                  };
+        })
+        .get()
+        .filter(Boolean);
+}
