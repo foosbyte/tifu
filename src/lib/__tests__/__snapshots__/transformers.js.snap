@@ -8061,6 +8061,88 @@ Array [
 ]
 `;
 
+exports[`Preliminary matches should find 4 ended matches 1`] = `
+Array [
+  Object {
+    "match_number": 1,
+    "points_team_1": 1,
+    "points_team_2": 0,
+    "table": "1",
+    "team1": "Oliver Litzba",
+    "team2": "Sarah Schwarzkopf",
+    "winner": "team1",
+  },
+  Object {
+    "match_number": 2,
+    "points_team_1": 1,
+    "points_team_2": 0,
+    "table": "2",
+    "team1": "Uwe Jehl",
+    "team2": "Uwe Hoheneder",
+    "winner": "team1",
+  },
+  Object {
+    "match_number": 3,
+    "points_team_1": 0,
+    "points_team_2": 1,
+    "table": "2",
+    "team1": "Henrik Iber",
+    "team2": "Björn Hoffmann",
+    "winner": "team2",
+  },
+  Object {
+    "match_number": 4,
+    "points_team_1": 1,
+    "points_team_2": 0,
+    "table": "",
+    "team1": "Ralf Eydner",
+    "team2": "Freilos",
+    "winner": "team1",
+  },
+]
+`;
+
+exports[`Preliminary matches should find active matches 1`] = `
+Array [
+  Object {
+    "match_number": 1,
+    "points_team_1": 1,
+    "points_team_2": 0,
+    "table": "",
+    "team1": "Björn Hoffmann",
+    "team2": "Freilos",
+    "winner": "team1",
+  },
+  Object {
+    "match_number": 2,
+    "points_team_1": null,
+    "points_team_2": null,
+    "table": "1",
+    "team1": "Uwe Jehl",
+    "team2": "Sarah Schwarzkopf",
+    "winner": null,
+  },
+  Object {
+    "match_number": 3,
+    "points_team_1": null,
+    "points_team_2": null,
+    "table": "2",
+    "team1": "Oliver Litzba",
+    "team2": "Henrik Iber",
+    "winner": null,
+  },
+  Object {
+    "match_number": 4,
+    "points_team_1": null,
+    "points_team_2": null,
+    "table": "",
+    "team1": "Uwe Hoheneder",
+    "team2": "Ralf Eydner",
+    "winner": null,
+  },
+]
+`;
+
 exports[`Preliminary standings should find 7 teams 1`] = `
 Array [
   Object {

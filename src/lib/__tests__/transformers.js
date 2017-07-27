@@ -7,6 +7,7 @@ import {
     registrations,
     preliminaryStandings,
     standings,
+    preliminaryMatches,
 } from '../transformers';
 
 function loadFixture(name) {
@@ -132,5 +133,31 @@ describe('Final standings', () => {
     it('should find 29 teams', () => {
         expect(table).toHaveLength(29);
         expect(table).toMatchSnapshot();
+    });
+});
+
+describe('Preliminary matches', () => {
+    let matches;
+    let html;
+
+    beforeAll(() => {
+        html = loadFixture('disziplin_vorrunde.php-1.html');
+    });
+
+    beforeEach(() => {
+        matches = preliminaryMatches(html);
+    });
+
+    it('should find 4 ended matches', () => {
+        expect(matches).toHaveLength(4);
+        expect(matches).toMatchSnapshot();
+    });
+
+    it('should find active matches', () => {
+        matches = preliminaryMatches(
+            loadFixture('disziplin_vorrunde.php-7.html'),
+        );
+        expect(matches).toHaveLength(4);
+        expect(matches).toMatchSnapshot();
     });
 });
