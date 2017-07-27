@@ -25,12 +25,12 @@ export function list(html) {
             return !(date && title && link && location && state)
                 ? null
                 : {
-                    state,
-                    date,
-                    title,
-                    link: querystring.parse(URL.parse(link).query),
-                    location,
-                };
+                      state,
+                      date,
+                      title,
+                      link: querystring.parse(URL.parse(link).query),
+                      location,
+                  };
         })
         .get()
         .filter(Boolean);
@@ -48,9 +48,9 @@ export function preregistrations(html) {
             return !(event && team)
                 ? null
                 : {
-                    event,
-                    team,
-                };
+                      event,
+                      team,
+                  };
         })
         .get()
         .filter(Boolean);
@@ -68,9 +68,9 @@ export function registrations(html) {
             return !(event && team)
                 ? null
                 : {
-                    event,
-                    team,
-                };
+                      event,
+                      team,
+                  };
         })
         .get()
         .filter(Boolean);
