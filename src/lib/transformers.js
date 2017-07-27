@@ -35,3 +35,23 @@ export function list(html) {
         .get()
         .filter(Boolean);
 }
+
+export function preregistrations(html) {
+    return $('tr', html)
+        .map((_, row) => {
+            const event = $(row)
+                .find('td:nth-child(3)')
+                .text()
+                .toLocaleLowerCase();
+            const team = $(row).find('td:nth-child(2)').text();
+
+            return !(event && team)
+                ? null
+                : {
+                    event,
+                    team,
+                };
+        })
+        .get()
+        .filter(Boolean);
+}

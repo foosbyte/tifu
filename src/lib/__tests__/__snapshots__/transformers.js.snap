@@ -7939,3 +7939,28 @@ Array [
   },
 ]
 `;
+
+exports[`Preregistrations should find preregistrations for two events 1`] = `
+Array [
+  Object {
+    "event": "offenes doppel",
+    "team": "Dennis Thomes / Uwe Jungsthöfel",
+  },
+  Object {
+    "event": "offenes doppel",
+    "team": "Helmut Hanekamp / Ruben Heinrich",
+  },
+  Object {
+    "event": "senioren doppel",
+    "team": "Uwe Gebhardt / N.N.",
+  },
+  Object {
+    "event": "senioren doppel",
+    "team": "Ludger Aalderks / Jonny Seitz",
+  },
+  Object {
+    "event": "senioren doppel",
+    "team": "Heinz Robben / Klaus Gerdes",
+  },
+]
+`;

@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import jest from 'jest';
-import { list } from '../transformers';
+import { list, preregistrations } from '../transformers';
 
 function loadFixture(name) {
     const fixtures = path.join(__dirname, '../../../fixtures');
@@ -49,5 +49,28 @@ describe('List of tournaments', () => {
     it('should find 392 ended tournaments', () => {
         expect(ended).toHaveLength(392);
         expect(ended).toMatchSnapshot();
+    });
+});
+
+describe('Preregistrations', () => {
+    let attendees;
+    let html;
+
+    beforeAll(() => {
+        html = loadFixture('turnier_voranmeldungen.php.html');
+    });
+
+    beforeEach(() => {
+        attendees = preregistrations(html);
+    });
+
+    it('should find preregistrations for two events', () => {
+        expect(
+            attendees.filter(p => p.event === 'offenes doppel'),
+        ).toHaveLength(2);
+        expect(
+            attendees.filter(p => p.event === 'senioren doppel'),
+        ).toHaveLength(3);
+        expect(attendees).toMatchSnapshot();
     });
 });
