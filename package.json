@@ -17,6 +17,9 @@
       "git add"
     ]
   },
+  "jest": {
+    "testPathIgnorePatterns": ["/node_modules/", "/dist/"]
+  },
   "author": "",
   "license": "MIT",
   "dependencies": {
