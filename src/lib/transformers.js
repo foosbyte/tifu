@@ -11,7 +11,7 @@ const states = {
 };
 
 export function list(html) {
-    return $('tr', html)
+    return $('#tabelle tr', html)
         .map((_, row) => {
             const nthtd = num => $(row).find(`td:nth-child(${num})`);
             const caption = $(row).parents('table').find('caption').text();
@@ -37,7 +37,7 @@ export function list(html) {
 }
 
 export function preregistrations(html) {
-    return $('tr', html)
+    return $('#tabelle tr', html)
         .map((_, row) => {
             const event = $(row)
                 .find('td:nth-child(3)')
@@ -57,7 +57,7 @@ export function preregistrations(html) {
 }
 
 export function registrations(html) {
-    return $('tr', html)
+    return $('#tabelle tr', html)
         .map((_, row) => {
             const event = $(row)
                 .find('td:nth-child(3)')
@@ -77,7 +77,7 @@ export function registrations(html) {
 }
 
 export function preliminaryStandings(html) {
-    return $('tr', html)
+    return $('#tabelle tr', html)
         .map((_, row) => {
             const position = Number($(row).find('td:nth-child(1)').text());
             const team = $(row).find('td:nth-child(2)').text();
@@ -109,7 +109,7 @@ export function preliminaryStandings(html) {
 }
 
 export function standings(html) {
-    return $('tr', html)
+    return $('#tabelle tr', html)
         .map((_, row) => {
             const position = parseInt(
                 $(row).find('td:nth-child(1)').text(),
