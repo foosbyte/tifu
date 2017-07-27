@@ -8685,3 +8685,84 @@ Array [
   },
 ]
 `;
+
+exports[`Tournament ended should match snapshot 1`] = `
+Object {
+  "active_matches": Array [],
+  "events": Array [
+    Object {
+      "event": "Offenes Einzel",
+      "link": Object {
+        "disziplinid": "1",
+        "turnierid": "25761",
+        "ver": "1",
+      },
+      "status": "beendet",
+      "system": "ProfiKO, AmateurKO",
+    },
+  ],
+  "upcoming_matches": Array [],
+}
+`;
+
+exports[`Tournament planned should match snapshot 1`] = `
+Object {
+  "active_matches": Array [],
+  "events": Array [
+    Object {
+      "event": "Offenes Doppel",
+      "link": Object {
+        "disziplinid": "0",
+        "turnierid": "83",
+        "ver": "2",
+      },
+      "status": "geplant",
+      "system": "",
+    },
+  ],
+  "upcoming_matches": Array [],
+}
+`;
+
+exports[`Tournament should match snapshot 1`] = `
+Object {
+  "active_matches": Array [
+    Object {
+      "event": "OE Vorr.",
+      "round": 7,
+      "start_time": 1501182960000,
+      "table_nr": 1,
+      "team1": "Uwe Jehl",
+      "team2": "Sarah Schwarzkopf",
+    },
+    Object {
+      "event": "OE Vorr.",
+      "round": 7,
+      "start_time": 1501182960000,
+      "table_nr": 2,
+      "team1": "Oliver Litzba",
+      "team2": "Henrik Iber",
+    },
+  ],
+  "events": Array [
+    Object {
+      "event": "Offenes Einzel",
+      "link": Object {
+        "disziplinid": "1",
+        "turnierid": "25780",
+        "ver": "1",
+      },
+      "status": "Vorrunde läuft...",
+      "system": "Schweizer System",
+    },
+  ],
+  "upcoming_matches": Array [
+    Object {
+      "event": "OE Vorr.",
+      "round": 7,
+      "team1": "Uwe Hoheneder",
+      "team2": "Ralf Eydner",
+    },
+  ],
+}
+`;

@@ -5,11 +5,15 @@ import moment from 'moment';
 
 const FAKE_LINK = 'http://some.tld';
 const DATE_FORMAT = 'DD.MM.YYYY HH:mm';
+const TIME_FORMAT = 'HH:mm';
 const STATES = {
     'laufende turniere': 'active',
     'geplante turniere': 'planned',
     'beendete turniere': 'ended',
 };
+const ACTIVE_MATCHES = 'laufende spiele';
+const UPCOMING_MATCHES = 'ausstehende spiele';
+const EVENTS = 'disziplinen';
 
 export function list(html) {
     return $('#tabelle tr', html)
@@ -168,4 +172,91 @@ export function preliminaryMatches(html) {
         })
         .get()
         .filter(Boolean);
+}
+
+export function tournament(html) {
+    const activeMatches = $('#tabelle tr', html)
+        .map((_, row) => {
+            const caption = $(row)
+                .parents('table')
+                .find('caption')
+                .text()
+                .toLocaleLowerCase();
+            const tableNr = parseInt($(row).find('td:nth-child(1)').text(), 10);
+            const event = $(row).find('td:nth-child(2)').text();
+            const round = parseInt($(row).find('td:nth-child(3)').text(), 10);
+            const team1 = $(row).find('td:nth-child(4)').text();
+            const team2 = $(row).find('td:nth-child(6)').text();
+            const startTimeText = $(row).find('td:nth-child(7)').text();
+            const startTime = moment(startTimeText, TIME_FORMAT).valueOf();
+
+            return caption !== ACTIVE_MATCHES ||
+            !(tableNr && event && round && team1 && team2 && startTime)
+                ? null
+                : {
+                      table_nr: tableNr,
+                      event,
+                      round,
+                      team1,
+                      team2,
+                      start_time: startTime,
+                  };
+        })
+        .get()
+        .filter(Boolean);
+
+    const upcomingMatches = $('#tabelle tr', html)
+        .map((_, row) => {
+            const caption = $(row)
+                .parents('table')
+                .find('caption')
+                .text()
+                .toLocaleLowerCase();
+            const event = $(row).find('td:nth-child(1)').text();
+            const round = parseInt($(row).find('td:nth-child(2)').text(), 10);
+            const team1 = $(row).find('td:nth-child(3)').text();
+            const team2 = $(row).find('td:nth-child(5)').text();
+
+            return caption !== UPCOMING_MATCHES ||
+            !(event && round && team1 && team2)
+                ? null
+                : {
+                      event,
+                      round,
+                      team1,
+                      team2,
+                  };
+        })
+        .get()
+        .filter(Boolean);
+
+    const events = $('#tabelle tr', html)
+        .map((_, row) => {
+            const caption = $(row)
+                .parents('table')
+                .find('caption')
+                .text()
+                .toLocaleLowerCase();
+            const event = $(row).find('td:nth-child(1) a').text();
+            const link = $(row).find('td:nth-child(1) a').attr('href');
+            const system = $(row).find('td:nth-child(2)').text();
+            const status = $(row).find('td:nth-child(3)').text();
+
+            return caption !== EVENTS || !(event && status)
+                ? null
+                : {
+                      event,
+                      system,
+                      status,
+                      link: querystring.parse(URL.parse(link).query),
+                  };
+        })
+        .get()
+        .filter(Boolean);
+
+    return {
+        active_matches: activeMatches,
+        upcoming_matches: upcomingMatches,
+        events,
+    };
 }

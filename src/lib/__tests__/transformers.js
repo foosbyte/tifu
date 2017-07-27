@@ -8,6 +8,7 @@ import {
     preliminaryStandings,
     standings,
     preliminaryMatches,
+    tournament,
 } from '../transformers';
 
 function loadFixture(name) {
@@ -159,5 +160,86 @@ describe('Preliminary matches', () => {
         );
         expect(matches).toHaveLength(4);
         expect(matches).toMatchSnapshot();
+    });
+});
+
+describe('Tournament', () => {
+    let result;
+    let html;
+
+    beforeAll(() => {
+        html = loadFixture('turnier.php-aktiv.html');
+    });
+
+    beforeEach(() => {
+        result = tournament(html);
+    });
+
+    it('should have active matches', () => {
+        expect(result.active_matches).toHaveLength(2);
+    });
+
+    it('should have upcoming matches', () => {
+        expect(result.upcoming_matches).toHaveLength(1);
+    });
+
+    it('should have a list of events', () => {
+        expect(result.events).toHaveLength(1);
+    });
+
+    it('should match snapshot', () => {
+        expect(result).toMatchSnapshot();
+    });
+
+    describe('ended', () => {
+        let result;
+        let html;
+
+        beforeAll(() => {
+            html = loadFixture('turnier.php-beendet.html');
+        });
+
+        beforeEach(() => {
+            result = tournament(html);
+        });
+
+        it('should have no matches', () => {
+            expect(result.active_matches).toHaveLength(0);
+            expect(result.upcoming_matches).toHaveLength(0);
+        });
+
+        it('should have events', () => {
+            expect(result.events).toHaveLength(1);
+        });
+
+        it('should match snapshot', () => {
+            expect(result).toMatchSnapshot();
+        });
+    });
+
+    describe('planned', () => {
+        let result;
+        let html;
+
+        beforeAll(() => {
+            html = loadFixture('turnier.php-planned.html');
+        });
+
+        beforeEach(() => {
+            result = tournament(html);
+        });
+
+        it('should have no matches', () => {
+            expect(result.active_matches).toHaveLength(0);
+            expect(result.upcoming_matches).toHaveLength(0);
+        });
+
+        it('should have events', () => {
+            expect(result.events).toHaveLength(1);
+        });
+
+        it('should match snapshot', () => {
+            expect(result).toMatchSnapshot();
+        });
     });
 });
