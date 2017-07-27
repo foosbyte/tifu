@@ -9,7 +9,7 @@ import {
     standings,
     preliminaryMatches,
     tournament,
-} from '../transformers';
+} from '../transforms';
 
 function loadFixture(name) {
     const fixtures = path.join(__dirname, '../../../fixtures');
