@@ -75,3 +75,35 @@ export function registrations(html) {
         .get()
         .filter(Boolean);
 }
+
+export function preliminaryStandings(html) {
+    return $('tr', html)
+        .map((_, row) => {
+            const position = Number($(row).find('td:nth-child(1)').text());
+            const team = $(row).find('td:nth-child(2)').text();
+            const matches = Number($(row).find('td:nth-child(3)').text());
+            const points = Number($(row).find('td:nth-child(4)').text());
+            const buchholz1 = Number($(row).find('td:nth-child(5)').text());
+            const buchholz2 = Number($(row).find('td:nth-child(6)').text());
+
+            return !(
+                position &&
+                team &&
+                matches &&
+                points &&
+                buchholz1 &&
+                buchholz2
+            )
+                ? null
+                : {
+                      position,
+                      team,
+                      matches,
+                      points,
+                      buchholz1,
+                      buchholz2,
+                  };
+        })
+        .get()
+        .filter(Boolean);
+}

@@ -1,7 +1,12 @@
 import fs from 'fs';
 import path from 'path';
 import jest from 'jest';
-import { list, preregistrations, registrations } from '../transformers';
+import {
+    list,
+    preregistrations,
+    registrations,
+    preliminaryStandings,
+} from '../transformers';
 
 function loadFixture(name) {
     const fixtures = path.join(__dirname, '../../../fixtures');
@@ -90,5 +95,23 @@ describe('Registrations', () => {
     it('should find a list of registered players', () => {
         expect(attendees).toHaveLength(113);
         expect(attendees).toMatchSnapshot();
+    });
+});
+
+describe('Preliminary standings', () => {
+    let standings;
+    let html;
+
+    beforeAll(() => {
+        html = loadFixture('disziplin_tabelle.php.html');
+    });
+
+    beforeEach(() => {
+        standings = preliminaryStandings(html);
+    });
+
+    it('should find 7 teams', () => {
+        expect(standings).toHaveLength(7);
+        expect(standings).toMatchSnapshot();
     });
 });

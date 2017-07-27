@@ -7940,6 +7940,67 @@ Array [
 ]
 `;
 
+exports[`Preliminary standings should find 7 teams 1`] = `
+Array [
+  Object {
+    "buchholz1": 19,
+    "buchholz2": 112,
+    "matches": 7,
+    "points": 6,
+    "position": 1,
+    "team": "Björn Hoffmann",
+  },
+  Object {
+    "buchholz1": 18,
+    "buchholz2": 95,
+    "matches": 6,
+    "points": 5,
+    "position": 2,
+    "team": "Uwe Jehl",
+  },
+  Object {
+    "buchholz1": 20,
+    "buchholz2": 91,
+    "matches": 6,
+    "points": 4,
+    "position": 3,
+    "team": "Oliver Litzba",
+  },
+  Object {
+    "buchholz1": 18,
+    "buchholz2": 95,
+    "matches": 6,
+    "points": 4,
+    "position": 4,
+    "team": "Uwe Hoheneder",
+  },
+  Object {
+    "buchholz1": 18,
+    "buchholz2": 95,
+    "matches": 6,
+    "points": 3,
+    "position": 5,
+    "team": "Ralf Eydner",
+  },
+  Object {
+    "buchholz1": 18,
+    "buchholz2": 95,
+    "matches": 6,
+    "points": 2,
+    "position": 6,
+    "team": "Sarah Schwarzkopf",
+  },
+  Object {
+    "buchholz1": 20,
+    "buchholz2": 91,
+    "matches": 6,
+    "points": 1,
+    "position": 7,
+    "team": "Henrik Iber",
+  },
+]
+`;
+
 exports[`Preregistrations should find preregistrations for two events 1`] = `
 Array [
   Object {
