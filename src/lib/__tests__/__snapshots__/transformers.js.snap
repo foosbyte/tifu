@@ -1,0 +1,7941 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List of tournaments should find 392 ended tournaments 1`] = `
+Array [
+  Object {
+    "date": 1500222600000,
+    "link": Object {
+      "turnierid": "25761",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Sundays Open Single",
+  },
+  Object {
+    "date": 1500143400000,
+    "link": Object {
+      "turnierid": "79",
+      "ver": "2",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Einzelturnier Kixx",
+  },
+  Object {
+    "date": 1500141600000,
+    "link": Object {
+      "turnierid": "25777",
+      "ver": "1",
+    },
+    "location": "Tante Käthe",
+    "state": "ended",
+    "title": "Tante Käthes Wochenend Sommer BYP",
+  },
+  Object {
+    "date": 1500111000000,
+    "link": Object {
+      "turnierid": "77",
+      "ver": "2",
+    },
+    "location": "MULTICULT - Am Haxthausenhof 18, 33098 Paderborn",
+    "state": "ended",
+    "title": "5. Paderborner Stadtmeisterschaften - Jubiläums-WE: 10 Jahre KL PB - Sa (Doppel) + So (Einzel)",
+  },
+  Object {
+    "date": 1500057000000,
+    "link": Object {
+      "turnierid": "25774",
+      "ver": "1",
+    },
+    "location": "FC St. Pauli Clubheim, Hamburg",
+    "state": "ended",
+    "title": "KiezKickerKing St. Pauli",
+  },
+  Object {
+    "date": 1500057000000,
+    "link": Object {
+      "turnierid": "78",
+      "ver": "2",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "No-Pro Turnier Kixx",
+  },
+  Object {
+    "date": 1499882400000,
+    "link": Object {
+      "turnierid": "76",
+      "ver": "2",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1499796000000,
+    "link": Object {
+      "turnierid": "75",
+      "ver": "2",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Goalie War Turnier 3.",
+  },
+  Object {
+    "date": 1499794200000,
+    "link": Object {
+      "turnierid": "25759",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99, 10245 Berlin",
+    "state": "ended",
+    "title": "Dienstags-Doppel",
+  },
+  Object {
+    "date": 1499707800000,
+    "link": Object {
+      "turnierid": "25757",
+      "ver": "1",
+    },
+    "location": "Freiburg, Kiez 57",
+    "state": "ended",
+    "title": "Montags-Einzel im Kiez 3",
+  },
+  Object {
+    "date": 1499617800000,
+    "link": Object {
+      "turnierid": "25746",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Sundays Open Single",
+  },
+  Object {
+    "date": 1499536800000,
+    "link": Object {
+      "turnierid": "25753",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "Tante Käthe Sommer BYP",
+  },
+  Object {
+    "date": 1499452200000,
+    "link": Object {
+      "turnierid": "74",
+      "ver": "2",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "No-Pro Turnier Kixx",
+  },
+  Object {
+    "date": 1499277600000,
+    "link": Object {
+      "turnierid": "73",
+      "ver": "2",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1499191200000,
+    "link": Object {
+      "turnierid": "72",
+      "ver": "2",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Goalie War Turnier 2. Kixx",
+  },
+  Object {
+    "date": 1499189400000,
+    "link": Object {
+      "turnierid": "25732",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Dienstags-Doppel",
+  },
+  Object {
+    "date": 1499103000000,
+    "link": Object {
+      "turnierid": "25745",
+      "ver": "1",
+    },
+    "location": "Freiburg, Kiez 57",
+    "state": "ended",
+    "title": "Montags-Einzel im Kiez",
+  },
+  Object {
+    "date": 1499013000000,
+    "link": Object {
+      "turnierid": "25733",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Sundays Open Single",
+  },
+  Object {
+    "date": 1498933800000,
+    "link": Object {
+      "turnierid": "71",
+      "ver": "2",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Einzelturnierserie Kixx",
+  },
+  Object {
+    "date": 1498903200000,
+    "link": Object {
+      "turnierid": "25736",
+      "ver": "1",
+    },
+    "location": "Flensburg",
+    "state": "ended",
+    "title": "3. MKK Challenger 2017",
+  },
+  Object {
+    "date": 1498847400000,
+    "link": Object {
+      "turnierid": "70",
+      "ver": "2",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "No-Pro Turnier Kixx",
+  },
+  Object {
+    "date": 1498845600000,
+    "link": Object {
+      "turnierid": "25729",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "7. Tante Käthe TFVB Mini-Challenger (OE)",
+  },
+  Object {
+    "date": 1498672800000,
+    "link": Object {
+      "turnierid": "69",
+      "ver": "2",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1498586400000,
+    "link": Object {
+      "turnierid": "68",
+      "ver": "2",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Goalie War Turnierserie Kixx 2017",
+  },
+  Object {
+    "date": 1498584540000,
+    "link": Object {
+      "turnierid": "25720",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Dienstags-Doppel (MC)",
+  },
+  Object {
+    "date": 1498329000000,
+    "link": Object {
+      "turnierid": "25717",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Einzelturnier Kixx",
+  },
+  Object {
+    "date": 1498242600000,
+    "link": Object {
+      "turnierid": "25714",
+      "ver": "1",
+    },
+    "location": "Kixx",
+    "state": "ended",
+    "title": "No Pro Turnier Kixx",
+  },
+  Object {
+    "date": 1498068000000,
+    "link": Object {
+      "turnierid": "66",
+      "ver": "2",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1497979800000,
+    "link": Object {
+      "turnierid": "25667",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Dienstags-Doppel",
+  },
+  Object {
+    "date": 1497893400000,
+    "link": Object {
+      "turnierid": "25697",
+      "ver": "1",
+    },
+    "location": "Freiburg, Kiez 57",
+    "state": "ended",
+    "title": "Montags-Einzel im Kiez",
+  },
+  Object {
+    "date": 1497803400000,
+    "link": Object {
+      "turnierid": "25665",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Sunday Open Single",
+  },
+  Object {
+    "date": 1497693600000,
+    "link": Object {
+      "turnierid": "25693",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "4. Kixx Open 2017 - DTFB Challenger",
+  },
+  Object {
+    "date": 1497637800000,
+    "link": Object {
+      "turnierid": "25691",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Kixx No-Pro Turnier",
+  },
+  Object {
+    "date": 1497463200000,
+    "link": Object {
+      "turnierid": "25685",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1497375000000,
+    "link": Object {
+      "turnierid": "25666",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Dienstags-Doppel",
+  },
+  Object {
+    "date": 1497173400000,
+    "link": Object {
+      "turnierid": "25676",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245",
+    "state": "ended",
+    "title": "Sunday Open Single - 2. Versuch",
+  },
+  Object {
+    "date": 1497088800000,
+    "link": Object {
+      "turnierid": "65",
+      "ver": "2",
+    },
+    "location": "Haus der Jugend, Grosse Gildewart 6-8, 49074 Osnabrück",
+    "state": "ended",
+    "title": "9. Osnabrücker Stadtmeisterschaften",
+  },
+  Object {
+    "date": 1497033000000,
+    "link": Object {
+      "turnierid": "25672",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "No-Pro Turnier Kixx",
+  },
+  Object {
+    "date": 1497000600000,
+    "link": Object {
+      "turnierid": "25670",
+      "ver": "1",
+    },
+    "location": "Tante Käthe",
+    "state": "ended",
+    "title": "Käthe mit allen Spielernamen",
+  },
+  Object {
+    "date": 1496860200000,
+    "link": Object {
+      "turnierid": "25654",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1496770200000,
+    "link": Object {
+      "turnierid": "25653",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Dienstags-Doppel",
+  },
+  Object {
+    "date": 1496593800000,
+    "link": Object {
+      "turnierid": "25649",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Sunday Open Single",
+  },
+  Object {
+    "date": 1496514600000,
+    "link": Object {
+      "turnierid": "25647",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Einzelturnier Kixx",
+  },
+  Object {
+    "date": 1496478600000,
+    "link": Object {
+      "turnierid": "63",
+      "ver": "2",
+    },
+    "location": "Phoenix Gymnasium, Seekante 12, 44236 Dortmund",
+    "state": "ended",
+    "title": "ITSF Master Series Dortmund",
+  },
+  Object {
+    "date": 1496428200000,
+    "link": Object {
+      "turnierid": "25644",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "No-Pro Turnier Kixx",
+  },
+  Object {
+    "date": 1496253600000,
+    "link": Object {
+      "turnierid": "25637",
+      "ver": "1",
+    },
+    "location": "Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1496165400000,
+    "link": Object {
+      "turnierid": "25631",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Dienstags-Doppel",
+  },
+  Object {
+    "date": 1495989000000,
+    "link": Object {
+      "turnierid": "25630",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Sunday Open Single",
+  },
+  Object {
+    "date": 1495962000000,
+    "link": Object {
+      "turnierid": "25629",
+      "ver": "1",
+    },
+    "location": "Tante Käthe",
+    "state": "ended",
+    "title": "D/S Challenger",
+  },
+  Object {
+    "date": 1495909800000,
+    "link": Object {
+      "turnierid": "25628",
+      "ver": "1",
+    },
+    "location": "Hamburg",
+    "state": "ended",
+    "title": "Einzelturnier Kixx",
+  },
+  Object {
+    "date": 1495879200000,
+    "link": Object {
+      "turnierid": "25627",
+      "ver": "1",
+    },
+    "location": "Rostock",
+    "state": "ended",
+    "title": "2. Challenger MV 2017",
+  },
+  Object {
+    "date": 1495824300000,
+    "link": Object {
+      "turnierid": "25624",
+      "ver": "1",
+    },
+    "location": "FCSP Clubheim, Hamburg",
+    "state": "ended",
+    "title": "KiezKickerKing",
+  },
+  Object {
+    "date": 1495650600000,
+    "link": Object {
+      "turnierid": "25617",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1495645200000,
+    "link": Object {
+      "turnierid": "25608",
+      "ver": "1",
+    },
+    "location": "BBW Heinrich-Haus, Stiftsstr. 1, Neuwied (Heimbach-Weis)",
+    "state": "ended",
+    "title": "TFBS Koblenz Mittwochsdoppel",
+  },
+  Object {
+    "date": 1495384200000,
+    "link": Object {
+      "turnierid": "25611",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Sundays Open Single",
+  },
+  Object {
+    "date": 1495305000000,
+    "link": Object {
+      "turnierid": "25610",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Einzelturnier Kixx",
+  },
+  Object {
+    "date": 1495303200000,
+    "link": Object {
+      "turnierid": "25609",
+      "ver": "1",
+    },
+    "location": "Amsterdam",
+    "state": "ended",
+    "title": "Club Foos Open Doubles",
+  },
+  Object {
+    "date": 1495218600000,
+    "link": Object {
+      "turnierid": "25604",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "No-Pro Turnier Kixx",
+  },
+  Object {
+    "date": 1495216800000,
+    "link": Object {
+      "turnierid": "25605",
+      "ver": "1",
+    },
+    "location": "Tante Käthe",
+    "state": "ended",
+    "title": "6. Tante Käthe TFVB Mini-Challenger (OE)",
+  },
+  Object {
+    "date": 1495216800000,
+    "link": Object {
+      "turnierid": "62",
+      "ver": "2",
+    },
+    "location": "'t Weverke Schimmert",
+    "state": "ended",
+    "title": "Finale Challenger 't Weverke",
+  },
+  Object {
+    "date": 1494955800000,
+    "link": Object {
+      "turnierid": "25592",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99, 10245 Berlin",
+    "state": "ended",
+    "title": "Dienstags-Doppel",
+  },
+  Object {
+    "date": 1494779400000,
+    "link": Object {
+      "turnierid": "25589",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Sunday Open Single",
+  },
+  Object {
+    "date": 1494700200000,
+    "link": Object {
+      "turnierid": "25587",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Einzelturnier Kixx",
+  },
+  Object {
+    "date": 1494664200000,
+    "link": Object {
+      "turnierid": "61",
+      "ver": "2",
+    },
+    "location": "Schönberghalle Pfullingen, Klosterstraße 112, 72793 Pfullingen",
+    "state": "ended",
+    "title": "ITSF Pro Tour Pfullingen 2017",
+  },
+  Object {
+    "date": 1494613800000,
+    "link": Object {
+      "turnierid": "25580",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "No-Pro Turnier Kixx",
+  },
+  Object {
+    "date": 1494613800000,
+    "link": Object {
+      "turnierid": "25581",
+      "ver": "1",
+    },
+    "location": "FC St. Pauli",
+    "state": "ended",
+    "title": "FC St. Pauli KiezKickerKing",
+  },
+  Object {
+    "date": 1494439200000,
+    "link": Object {
+      "turnierid": "25565",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1494174600000,
+    "link": Object {
+      "turnierid": "25559",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia Einzel",
+  },
+  Object {
+    "date": 1494093600000,
+    "link": Object {
+      "turnierid": "25558",
+      "ver": "1",
+    },
+    "location": "Amsterdam",
+    "state": "ended",
+    "title": "Club Foos Open Singles",
+  },
+  Object {
+    "date": 1494064800000,
+    "link": Object {
+      "turnierid": "25556",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "3. Kixx Open 2017 - DTFB Challenger",
+  },
+  Object {
+    "date": 1494009000000,
+    "link": Object {
+      "turnierid": "25555",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "No-Pro Turnier Kixx",
+  },
+  Object {
+    "date": 1494007200000,
+    "link": Object {
+      "turnierid": "25560",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "6. Tante Käthe TFVB Mini-Challenger",
+  },
+  Object {
+    "date": 1493834400000,
+    "link": Object {
+      "turnierid": "25543",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1493830800000,
+    "link": Object {
+      "turnierid": "25546",
+      "ver": "1",
+    },
+    "location": "Stiftsstr. 1, Neuwied (Heimbach-Weis)",
+    "state": "ended",
+    "title": "TFBS Koblenz Mittwochsdoppel",
+  },
+  Object {
+    "date": 1493569800000,
+    "link": Object {
+      "turnierid": "25534",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia Offenes Einzel",
+  },
+  Object {
+    "date": 1493488800000,
+    "link": Object {
+      "turnierid": "58",
+      "ver": "2",
+    },
+    "location": "Café Dingus Heerlen",
+    "state": "ended",
+    "title": "Dingus Challenger",
+  },
+  Object {
+    "date": 1493460000000,
+    "link": Object {
+      "turnierid": "25435",
+      "ver": "1",
+    },
+    "location": "3Raumwohnung, Abraham 13, 26122 Oldenburg",
+    "state": "ended",
+    "title": "4. Nordwest Open 2017",
+  },
+  Object {
+    "date": 1493404200000,
+    "link": Object {
+      "turnierid": "25529",
+      "ver": "1",
+    },
+    "location": "Ex-Sparr Hamburg",
+    "state": "ended",
+    "title": "KiezKickerKing",
+  },
+  Object {
+    "date": 1493402400000,
+    "link": Object {
+      "turnierid": "25528",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "No-Pro Turnier Kixx",
+  },
+  Object {
+    "date": 1493229600000,
+    "link": Object {
+      "turnierid": "25515",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Kixx Mittwochsdoppel",
+  },
+  Object {
+    "date": 1493141400000,
+    "link": Object {
+      "turnierid": "25499",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia Offenes Doppel",
+  },
+  Object {
+    "date": 1493026200000,
+    "link": Object {
+      "turnierid": "57",
+      "ver": "2",
+    },
+    "location": "Bielefeld",
+    "state": "ended",
+    "title": "mehr Spaß im GGÜ",
+  },
+  Object {
+    "date": 1492965000000,
+    "link": Object {
+      "turnierid": "25507",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia Offenes Einzel",
+  },
+  Object {
+    "date": 1492857000000,
+    "link": Object {
+      "turnierid": "25504",
+      "ver": "1",
+    },
+    "location": "Schützenhaus Schwalbach Saar",
+    "state": "ended",
+    "title": "Landesmeisterschaften Bonzini",
+  },
+  Object {
+    "date": 1492853400000,
+    "link": Object {
+      "turnierid": "25505",
+      "ver": "1",
+    },
+    "location": "Amsterdam",
+    "state": "ended",
+    "title": "Open Doubles 22 april 2017",
+  },
+  Object {
+    "date": 1492853400000,
+    "link": Object {
+      "turnierid": "25506",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Einzelturnier Kixx",
+  },
+  Object {
+    "date": 1492799400000,
+    "link": Object {
+      "turnierid": "25494",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "No-Pro Turnier Kixx",
+  },
+  Object {
+    "date": 1492624800000,
+    "link": Object {
+      "turnierid": "25487",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1492453800000,
+    "link": Object {
+      "turnierid": "56",
+      "ver": "2",
+    },
+    "location": "Bielefeld",
+    "state": "ended",
+    "title": "Spaß im GGÜ",
+  },
+  Object {
+    "date": 1492335000000,
+    "link": Object {
+      "turnierid": "25481",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia Mini-Challenger",
+  },
+  Object {
+    "date": 1492277400000,
+    "link": Object {
+      "turnierid": "25480",
+      "ver": "1",
+    },
+    "location": "Werne -NRW- Rubberduck e.V.",
+    "state": "ended",
+    "title": "Monster-DYP Serie",
+  },
+  Object {
+    "date": 1492020000000,
+    "link": Object {
+      "turnierid": "25471",
+      "ver": "1",
+    },
+    "location": "Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1491931800000,
+    "link": Object {
+      "turnierid": "25460",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Straße 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia Dienstags-Doppel",
+  },
+  Object {
+    "date": 1491757200000,
+    "link": Object {
+      "turnierid": "25443",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Offenes Einzel + DYP",
+  },
+  Object {
+    "date": 1491676200000,
+    "link": Object {
+      "turnierid": "25463",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Einzelturnier Kixx",
+  },
+  Object {
+    "date": 1491589800000,
+    "link": Object {
+      "turnierid": "25458",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "No-Pro Turnier",
+  },
+  Object {
+    "date": 1491588000000,
+    "link": Object {
+      "turnierid": "25456",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "5. Tante Käthe TFVB Mini-Challenger",
+  },
+  Object {
+    "date": 1491415200000,
+    "link": Object {
+      "turnierid": "25449",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1491325200000,
+    "link": Object {
+      "turnierid": "25441",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia Dienstags-Doppel",
+  },
+  Object {
+    "date": 1491152400000,
+    "link": Object {
+      "turnierid": "25439",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia Mini-Challenger #2",
+  },
+  Object {
+    "date": 1491071400000,
+    "link": Object {
+      "turnierid": "25437",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Einzelturnier Kixx",
+  },
+  Object {
+    "date": 1491069600000,
+    "link": Object {
+      "turnierid": "25436",
+      "ver": "1",
+    },
+    "location": "Amsterdam",
+    "state": "ended",
+    "title": "Club Foos Open Singles",
+  },
+  Object {
+    "date": 1491039000000,
+    "link": Object {
+      "turnierid": "54",
+      "ver": "2",
+    },
+    "location": "SchücoArena, Melanchthonstr. 31a, 33615 Bielefeld",
+    "state": "ended",
+    "title": "1. Bielefelder Stadtmeisterschaft",
+  },
+  Object {
+    "date": 1490983200000,
+    "link": Object {
+      "turnierid": "25430",
+      "ver": "1",
+    },
+    "location": "Tante Käthe",
+    "state": "ended",
+    "title": "4. Tante Käthe TFVB Mini-Challenger (OE)",
+  },
+  Object {
+    "date": 1490810400000,
+    "link": Object {
+      "turnierid": "25427",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1490722200000,
+    "link": Object {
+      "turnierid": "25424",
+      "ver": "1",
+    },
+    "location": "cassiopeia Berlin, Revaler Strasse 99",
+    "state": "ended",
+    "title": "cassiopeia Dienstags-Doppel",
+  },
+  Object {
+    "date": 1490437800000,
+    "link": Object {
+      "turnierid": "25414",
+      "ver": "1",
+    },
+    "location": "Kixx",
+    "state": "ended",
+    "title": "Einzelturnier",
+  },
+  Object {
+    "date": 1490383800000,
+    "link": Object {
+      "turnierid": "25405",
+      "ver": "1",
+    },
+    "location": "Hamburg",
+    "state": "ended",
+    "title": "FC St Pauli",
+  },
+  Object {
+    "date": 1490382000000,
+    "link": Object {
+      "turnierid": "25404",
+      "ver": "1",
+    },
+    "location": "Tante Käthe",
+    "state": "ended",
+    "title": "Mini-Challenger OD",
+  },
+  Object {
+    "date": 1490209200000,
+    "link": Object {
+      "turnierid": "25399",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1490121000000,
+    "link": Object {
+      "turnierid": "25398",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia Doppel",
+  },
+  Object {
+    "date": 1489924800000,
+    "link": Object {
+      "turnierid": "25307",
+      "ver": "1",
+    },
+    "location": "Bonn",
+    "state": "ended",
+    "title": "NWTFV-Minichallenger Kicker Crew Bonn e.V.",
+  },
+  Object {
+    "date": 1489917600000,
+    "link": Object {
+      "turnierid": "25382",
+      "ver": "1",
+    },
+    "location": "Tante Käthe",
+    "state": "ended",
+    "title": "1. Berliner Damen und Senioren Challenger",
+  },
+  Object {
+    "date": 1489863600000,
+    "link": Object {
+      "turnierid": "25380",
+      "ver": "1",
+    },
+    "location": "Amsterdam",
+    "state": "ended",
+    "title": "Club Foos Open Doubles",
+  },
+  Object {
+    "date": 1489834800000,
+    "link": Object {
+      "turnierid": "25377",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "2. Kixx Open 2017 - DTFB Challenger-Turnier",
+  },
+  Object {
+    "date": 1489779900000,
+    "link": Object {
+      "turnierid": "25375",
+      "ver": "1",
+    },
+    "location": "Hamburg, FCSP Clubheim",
+    "state": "ended",
+    "title": "FC St. Pauli KiezKickerKing",
+  },
+  Object {
+    "date": 1489777200000,
+    "link": Object {
+      "turnierid": "25372",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "3. Tante Käthe TFVB Mini-Challenger (OE)",
+  },
+  Object {
+    "date": 1489775400000,
+    "link": Object {
+      "turnierid": "25337",
+      "ver": "1",
+    },
+    "location": "Werne - NRW - Rubberduck e.V.",
+    "state": "ended",
+    "title": "Monster-DYP Serie",
+  },
+  Object {
+    "date": 1489604400000,
+    "link": Object {
+      "turnierid": "25365",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Kixx Mittwochsdoppel",
+  },
+  Object {
+    "date": 1489516200000,
+    "link": Object {
+      "turnierid": "25335",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia Offenes Doppel",
+  },
+  Object {
+    "date": 1489228200000,
+    "link": Object {
+      "turnierid": "25354",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Einzelturnierserie Kixx",
+  },
+  Object {
+    "date": 1488969000000,
+    "link": Object {
+      "turnierid": "25338",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1488911400000,
+    "link": Object {
+      "turnierid": "25304",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia OD Mini-Challenger #7",
+  },
+  Object {
+    "date": 1488722400000,
+    "link": Object {
+      "turnierid": "25302",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia OE Mini-Challenger #1",
+  },
+  Object {
+    "date": 1488654000000,
+    "link": Object {
+      "turnierid": "25318",
+      "ver": "1",
+    },
+    "location": "Amsterdam",
+    "state": "ended",
+    "title": "Club Foos Open Singles",
+  },
+  Object {
+    "date": 1488570300000,
+    "link": Object {
+      "turnierid": "25313",
+      "ver": "1",
+    },
+    "location": "St. Pauli Hamburg",
+    "state": "ended",
+    "title": "FC ST. Pauli Clubheim",
+  },
+  Object {
+    "date": 1488565800000,
+    "link": Object {
+      "turnierid": "25306",
+      "ver": "1",
+    },
+    "location": "Werne - NRW - Rubberduck e.V.",
+    "state": "ended",
+    "title": "Monster-DYP Serie",
+  },
+  Object {
+    "date": 1488394800000,
+    "link": Object {
+      "turnierid": "25305",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1488306600000,
+    "link": Object {
+      "turnierid": "25300",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia OD Mini-Challenger #6",
+  },
+  Object {
+    "date": 1488222000000,
+    "link": Object {
+      "turnierid": "25296",
+      "ver": "1",
+    },
+    "location": "Tante Käthe",
+    "state": "ended",
+    "title": "Tante Käthe Cup (BYP) Saison 1 Spieltag 8",
+  },
+  Object {
+    "date": 1487962800000,
+    "link": Object {
+      "turnierid": "25288",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "2. Tante Käthe TFVB Mini-Challenger (OE)",
+  },
+  Object {
+    "date": 1487790000000,
+    "link": Object {
+      "turnierid": "25282",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1487701800000,
+    "link": Object {
+      "turnierid": "25269",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia Mini-Challenger #5",
+  },
+  Object {
+    "date": 1487617200000,
+    "link": Object {
+      "turnierid": "25270",
+      "ver": "1",
+    },
+    "location": "Tante Käthe",
+    "state": "ended",
+    "title": "Tante Käthe Cup (BYP) Saison 1 Spieltag 7",
+  },
+  Object {
+    "date": 1487415600000,
+    "link": Object {
+      "turnierid": "25266",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "1. Kixx Open 2017 - DTFB Challenger",
+  },
+  Object {
+    "date": 1487413800000,
+    "link": Object {
+      "turnierid": "53",
+      "ver": "2",
+    },
+    "location": "Apollo, Kasinostr. 25, 42103 Wuppertal",
+    "state": "ended",
+    "title": "4. Wuppertaler Stadtmeisterschaft",
+  },
+  Object {
+    "date": 1487360700000,
+    "link": Object {
+      "turnierid": "25265",
+      "ver": "1",
+    },
+    "location": "FC St. Pauli Harald-Stender-Platz 1",
+    "state": "ended",
+    "title": "KiezKickerKing FC St. Pauli",
+  },
+  Object {
+    "date": 1487358000000,
+    "link": Object {
+      "turnierid": "25263",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "3. Tante Käthe TFVB Mini-Challenger",
+  },
+  Object {
+    "date": 1487356200000,
+    "link": Object {
+      "turnierid": "25260",
+      "ver": "1",
+    },
+    "location": "Werne - NRW - Rubberduck e.V.",
+    "state": "ended",
+    "title": "Mini-Challenger",
+  },
+  Object {
+    "date": 1487266200000,
+    "link": Object {
+      "turnierid": "46",
+      "ver": "2",
+    },
+    "location": "Rock 'n Roll Headquarter Pitcher Duesseldorf",
+    "state": "ended",
+    "title": "Vodafone Foosball",
+  },
+  Object {
+    "date": 1487185200000,
+    "link": Object {
+      "turnierid": "25258",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1487097000000,
+    "link": Object {
+      "turnierid": "25237",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99, Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia Mini-Challenger #4",
+  },
+  Object {
+    "date": 1487012400000,
+    "link": Object {
+      "turnierid": "25252",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "Tante Käthe Cup (BYP) Saison 1 Spieltag 6",
+  },
+  Object {
+    "date": 1486981800000,
+    "link": Object {
+      "turnierid": "52",
+      "ver": "2",
+    },
+    "location": "testz",
+    "state": "ended",
+    "title": "testuhl",
+  },
+  Object {
+    "date": 1486841400000,
+    "link": Object {
+      "turnierid": "25246",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Einzelturnierserie Kixx",
+  },
+  Object {
+    "date": 1486807200000,
+    "link": Object {
+      "turnierid": "25245",
+      "ver": "1",
+    },
+    "location": "Bredow Treff",
+    "state": "ended",
+    "title": "1. Berliner Challener Feb. 2017 OD",
+  },
+  Object {
+    "date": 1486753200000,
+    "link": Object {
+      "turnierid": "25240",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "Tante Käthe TFVB Mini-Challenger Classic",
+  },
+  Object {
+    "date": 1486580400000,
+    "link": Object {
+      "turnierid": "25235",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel",
+  },
+  Object {
+    "date": 1486492200000,
+    "link": Object {
+      "turnierid": "25219",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia Mini-Challenger #3",
+  },
+  Object {
+    "date": 1486407600000,
+    "link": Object {
+      "turnierid": "25231",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "Tante Käthe Cup (BYP) Saison 1 Spieltag 5",
+  },
+  Object {
+    "date": 1486234800000,
+    "link": Object {
+      "turnierid": "25229",
+      "ver": "1",
+    },
+    "location": "De Keet Amsterdam",
+    "state": "ended",
+    "title": "Club Foos Open Singles",
+  },
+  Object {
+    "date": 1486150200000,
+    "link": Object {
+      "turnierid": "25228",
+      "ver": "1",
+    },
+    "location": "FC St. Pauli Harald-Stender-Platz 1 Hamburg",
+    "state": "ended",
+    "title": "KiezKickerKing",
+  },
+  Object {
+    "date": 1486144800000,
+    "link": Object {
+      "turnierid": "51",
+      "ver": "2",
+    },
+    "location": "Hennef / Uckerath",
+    "state": "ended",
+    "title": "7. Partyhaus Landsknecht Kicker Cup",
+  },
+  Object {
+    "date": 1485975600000,
+    "link": Object {
+      "turnierid": "25221",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1485889200000,
+    "link": Object {
+      "turnierid": "25217",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Speedball Challenger Kixx",
+  },
+  Object {
+    "date": 1485887400000,
+    "link": Object {
+      "turnierid": "25198",
+      "ver": "1",
+    },
+    "location": "cassiopeia Berlin",
+    "state": "ended",
+    "title": "cassiopeia Mini-Challenger #2",
+  },
+  Object {
+    "date": 1485802800000,
+    "link": Object {
+      "turnierid": "25211",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "Tante Käthe Cup (BYP) Saison 1 Spieltag 4",
+  },
+  Object {
+    "date": 1485631800000,
+    "link": Object {
+      "turnierid": "25206",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Einzelturnierserie",
+  },
+  Object {
+    "date": 1485604800000,
+    "link": Object {
+      "turnierid": "22464",
+      "ver": "1",
+    },
+    "location": "Schwalbach",
+    "state": "ended",
+    "title": "Bonzini Einladungsturnier STFV",
+  },
+  Object {
+    "date": 1485426600000,
+    "link": Object {
+      "turnierid": "47",
+      "ver": "2",
+    },
+    "location": "Dortmund",
+    "state": "ended",
+    "title": "Classic Challenger",
+  },
+  Object {
+    "date": 1485370800000,
+    "link": Object {
+      "turnierid": "22566",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Classic Mittwochsdoppel",
+  },
+  Object {
+    "date": 1485340200000,
+    "link": Object {
+      "turnierid": "22568",
+      "ver": "1",
+    },
+    "location": "Gegenüber Bielefeld",
+    "state": "ended",
+    "title": "Einstufungsturnier-Teams",
+  },
+  Object {
+    "date": 1485285000000,
+    "link": Object {
+      "turnierid": "22563",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Speedball-Turnier",
+  },
+  Object {
+    "date": 1485282600000,
+    "link": Object {
+      "turnierid": "22565",
+      "ver": "1",
+    },
+    "location": "cassiopeia Berlin",
+    "state": "ended",
+    "title": "cassiopeia TFVB Mini-Challenger",
+  },
+  Object {
+    "date": 1485198000000,
+    "link": Object {
+      "turnierid": "22559",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "Tante Käthe Cup (BYP) Saison 1 Spieltag 3",
+  },
+  Object {
+    "date": 1485086400000,
+    "link": Object {
+      "turnierid": "22477",
+      "ver": "1",
+    },
+    "location": "Surwold",
+    "state": "ended",
+    "title": "1 Surwolder Stadtmeisterschaften 2017",
+  },
+  Object {
+    "date": 1485025200000,
+    "link": Object {
+      "turnierid": "22466",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "2. Tante Käthe TFVB Mini-Challenger",
+  },
+  Object {
+    "date": 1485000000000,
+    "link": Object {
+      "turnierid": "22463",
+      "ver": "1",
+    },
+    "location": "Halle(Saale)",
+    "state": "ended",
+    "title": "Champions Battle",
+  },
+  Object {
+    "date": 1484852400000,
+    "link": Object {
+      "turnierid": "22459",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Speedball Challenger",
+  },
+  Object {
+    "date": 1484766000000,
+    "link": Object {
+      "turnierid": "22458",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Classic Mittwochsdoppel",
+  },
+  Object {
+    "date": 1484679600000,
+    "link": Object {
+      "turnierid": "22455",
+      "ver": "1",
+    },
+    "location": "Kixx",
+    "state": "ended",
+    "title": "Speedball Challenger Kixx",
+  },
+  Object {
+    "date": 1484593200000,
+    "link": Object {
+      "turnierid": "22447",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "Tante Käthe Cup (BYP) Saison 1 Spieltag 2",
+  },
+  Object {
+    "date": 1484481600000,
+    "link": Object {
+      "turnierid": "22353",
+      "ver": "1",
+    },
+    "location": "Bonn",
+    "state": "ended",
+    "title": "NWTFV-Minichallenger Kicker Crew Bonn e.V.",
+  },
+  Object {
+    "date": 1484391600000,
+    "link": Object {
+      "turnierid": "22438",
+      "ver": "1",
+    },
+    "location": "BLZ / Kroekelbar",
+    "state": "ended",
+    "title": "Hannover Challenger",
+  },
+  Object {
+    "date": 1484334000000,
+    "link": Object {
+      "turnierid": "22434",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "1. Tante Käthe TFVB Mini-Challenger (Speedball)",
+  },
+  Object {
+    "date": 1484247600000,
+    "link": Object {
+      "turnierid": "22425",
+      "ver": "1",
+    },
+    "location": "Hamburg",
+    "state": "ended",
+    "title": "Speedball-Turnier Kixx",
+  },
+  Object {
+    "date": 1484242200000,
+    "link": Object {
+      "turnierid": "22424",
+      "ver": "1",
+    },
+    "location": "Dortmund",
+    "state": "ended",
+    "title": "Classic Monster DYP",
+  },
+  Object {
+    "date": 1484161200000,
+    "link": Object {
+      "turnierid": "22422",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Classic Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1484074800000,
+    "link": Object {
+      "turnierid": "22420",
+      "ver": "1",
+    },
+    "location": "Hamburg",
+    "state": "ended",
+    "title": "Speedball Challenger Kixx",
+  },
+  Object {
+    "date": 1483862400000,
+    "link": Object {
+      "turnierid": "22383",
+      "ver": "1",
+    },
+    "location": "Hotel Landsknecht",
+    "state": "ended",
+    "title": "Bundesligarelegation Damen 2017",
+  },
+  Object {
+    "date": 1483862400000,
+    "link": Object {
+      "turnierid": "22384",
+      "ver": "1",
+    },
+    "location": "Hotel Landsknecht",
+    "state": "ended",
+    "title": "Bundesligarelegation Senioren 2017",
+  },
+  Object {
+    "date": 1483817400000,
+    "link": Object {
+      "turnierid": "22410",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Einzelturnierserie",
+  },
+  Object {
+    "date": 1483817400000,
+    "link": Object {
+      "turnierid": "45",
+      "ver": "2",
+    },
+    "location": "de Kroeg, Brunssum",
+    "state": "ended",
+    "title": "TVC de Kroeg",
+  },
+  Object {
+    "date": 1483815600000,
+    "link": Object {
+      "turnierid": "22411",
+      "ver": "1",
+    },
+    "location": "De Keet Amsterdam",
+    "state": "ended",
+    "title": "Club Foos Open Singles",
+  },
+  Object {
+    "date": 1483790400000,
+    "link": Object {
+      "turnierid": "22409",
+      "ver": "1",
+    },
+    "location": "3RaumWohnung Oldenburg",
+    "state": "ended",
+    "title": "Challenger 01/2017",
+  },
+  Object {
+    "date": 1483783200000,
+    "link": Object {
+      "turnierid": "22382",
+      "ver": "1",
+    },
+    "location": "Hotel Landsknecht",
+    "state": "ended",
+    "title": "Bundesligarelegation Herren 2017",
+  },
+  Object {
+    "date": 1483729200000,
+    "link": Object {
+      "turnierid": "22405",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "1. Tante Käthe TFVB Mini-Challenger (OE)",
+  },
+  Object {
+    "date": 1483642800000,
+    "link": Object {
+      "turnierid": "22401",
+      "ver": "1",
+    },
+    "location": "Kixx",
+    "state": "ended",
+    "title": "Speedball Challenger Kixx",
+  },
+  Object {
+    "date": 1483637400000,
+    "link": Object {
+      "turnierid": "22399",
+      "ver": "1",
+    },
+    "location": "Dortmund",
+    "state": "ended",
+    "title": "Classic Challenger M-DYP",
+  },
+  Object {
+    "date": 1483556400000,
+    "link": Object {
+      "turnierid": "22392",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Classic Mittwochsdoppel",
+  },
+  Object {
+    "date": 1483032600000,
+    "link": Object {
+      "turnierid": "22376",
+      "ver": "1",
+    },
+    "location": "Dortmund",
+    "state": "ended",
+    "title": "Classic DYP",
+  },
+  Object {
+    "date": 1482951600000,
+    "link": Object {
+      "turnierid": "22374",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Classic Mittwochsdoppel",
+  },
+  Object {
+    "date": 1482346800000,
+    "link": Object {
+      "turnierid": "22367",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Classic Mittwochsdoppel",
+  },
+  Object {
+    "date": 1481970600000,
+    "link": Object {
+      "turnierid": "22229",
+      "ver": "1",
+    },
+    "location": "Münster",
+    "state": "ended",
+    "title": "Münsteraner Stadtmeisterschaft",
+  },
+  Object {
+    "date": 1481711400000,
+    "link": Object {
+      "turnierid": "22355",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Classic Mittwochsdoppel",
+  },
+  Object {
+    "date": 1481365800000,
+    "link": Object {
+      "turnierid": "22275",
+      "ver": "1",
+    },
+    "location": "Stiftsstraße 1, 56566 Neuwied (Heimbach-Weis)",
+    "state": "ended",
+    "title": "Challenger - TFBS Koblenz",
+  },
+  Object {
+    "date": 1481310000000,
+    "link": Object {
+      "turnierid": "22350",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "Mini-Challenger Tante Käthe",
+  },
+  Object {
+    "date": 1481137200000,
+    "link": Object {
+      "turnierid": "22345",
+      "ver": "1",
+    },
+    "location": "Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1480761000000,
+    "link": Object {
+      "turnierid": "22335",
+      "ver": "1",
+    },
+    "location": "Dortmund",
+    "state": "ended",
+    "title": "Battle of Champions - NWTFV",
+  },
+  Object {
+    "date": 1480761000000,
+    "link": Object {
+      "turnierid": "22337",
+      "ver": "1",
+    },
+    "location": "Dortmund",
+    "state": "ended",
+    "title": "Classic Challenger",
+  },
+  Object {
+    "date": 1480532400000,
+    "link": Object {
+      "turnierid": "22321",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel - Turnierserie",
+  },
+  Object {
+    "date": 1480242600000,
+    "link": Object {
+      "turnierid": "22309",
+      "ver": "1",
+    },
+    "location": "Münster",
+    "state": "ended",
+    "title": "Uni DM",
+  },
+  Object {
+    "date": 1479927600000,
+    "link": Object {
+      "turnierid": "22300",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1479637800000,
+    "link": Object {
+      "turnierid": "22292",
+      "ver": "1",
+    },
+    "location": "Medebach",
+    "state": "ended",
+    "title": "Deutsche Meisterschaft 2016 Einzel",
+  },
+  Object {
+    "date": 1479582000000,
+    "link": Object {
+      "turnierid": "22290",
+      "ver": "1",
+    },
+    "location": "Amsterdam",
+    "state": "ended",
+    "title": "Club Foos Open Doubles 19/11/16",
+  },
+  Object {
+    "date": 1479544200000,
+    "link": Object {
+      "turnierid": "40",
+      "ver": "2",
+    },
+    "location": "Medebach",
+    "state": "ended",
+    "title": "Deutsche Meisterschaft 2016 Doppel",
+  },
+  Object {
+    "date": 1479322800000,
+    "link": Object {
+      "turnierid": "22276",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1478979000000,
+    "link": Object {
+      "turnierid": "22265",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Einzelturnierserie Kixx",
+  },
+  Object {
+    "date": 1478946600000,
+    "link": Object {
+      "turnierid": "22264",
+      "ver": "1",
+    },
+    "location": "3RW",
+    "state": "ended",
+    "title": "1.NWO2017",
+  },
+  Object {
+    "date": 1478860200000,
+    "link": Object {
+      "turnierid": "22261",
+      "ver": "1",
+    },
+    "location": "Clubheim, Harald-Stender-Platz 1, 20359 Hamburg",
+    "state": "ended",
+    "title": "FC St. Pauli KiezKickerKing",
+  },
+  Object {
+    "date": 1478718000000,
+    "link": Object {
+      "turnierid": "22254",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1478372400000,
+    "link": Object {
+      "turnierid": "22249",
+      "ver": "1",
+    },
+    "location": "Amsterdam",
+    "state": "ended",
+    "title": "Open Singles 5 november",
+  },
+  Object {
+    "date": 1478343600000,
+    "link": Object {
+      "turnierid": "22039",
+      "ver": "1",
+    },
+    "location": "Checkpoint Altenkessel",
+    "state": "ended",
+    "title": "STFV B-Rangliste",
+  },
+  Object {
+    "date": 1478338200000,
+    "link": Object {
+      "turnierid": "22243",
+      "ver": "1",
+    },
+    "location": "Fränkisch Crumbach",
+    "state": "ended",
+    "title": "Junioren Bundesliga 2016",
+  },
+  Object {
+    "date": 1478113200000,
+    "link": Object {
+      "turnierid": "22237",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1477828800000,
+    "link": Object {
+      "turnierid": "22048",
+      "ver": "1",
+    },
+    "location": "Bonn",
+    "state": "ended",
+    "title": "NWTFV-Minichallenger Kicker Crew Bonn e.V.",
+  },
+  Object {
+    "date": 1477733400000,
+    "link": Object {
+      "turnierid": "22222",
+      "ver": "1",
+    },
+    "location": "Heiligenwald",
+    "state": "ended",
+    "title": "Multi Table Challenger",
+  },
+  Object {
+    "date": 1477679400000,
+    "link": Object {
+      "turnierid": "22221",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Halloween Special - 3er Teams",
+  },
+  Object {
+    "date": 1477670400000,
+    "link": Object {
+      "turnierid": "22050",
+      "ver": "1",
+    },
+    "location": "GrillCafé der Uni Paderborn",
+    "state": "ended",
+    "title": "Eröffnungsturnier WiSe 16-17",
+  },
+  Object {
+    "date": 1477504800000,
+    "link": Object {
+      "turnierid": "22213",
+      "ver": "1",
+    },
+    "location": "Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1477161000000,
+    "link": Object {
+      "turnierid": "22205",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Einzelturnierserie Kixx",
+  },
+  Object {
+    "date": 1477072800000,
+    "link": Object {
+      "turnierid": "22204",
+      "ver": "1",
+    },
+    "location": "Heimat+Hafen Bielefeld",
+    "state": "ended",
+    "title": "Kickern im Hafen (Einzel - Mini-Challenger)",
+  },
+  Object {
+    "date": 1477072800000,
+    "link": Object {
+      "turnierid": "22204",
+      "ver": "1",
+    },
+    "location": "Heimat+Hafen Bielefeld",
+    "state": "ended",
+    "title": "Kickern im Hafen (Einzel - Mini-Challenger)",
+  },
+  Object {
+    "date": 1476900000000,
+    "link": Object {
+      "turnierid": "22058",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1476615600000,
+    "link": Object {
+      "turnierid": "22049",
+      "ver": "1",
+    },
+    "location": "cassiopeia Berlin",
+    "state": "ended",
+    "title": "DTFB Speedball Challenger",
+  },
+  Object {
+    "date": 1476529200000,
+    "link": Object {
+      "turnierid": "22038",
+      "ver": "1",
+    },
+    "location": "St. Wendel / Saar",
+    "state": "ended",
+    "title": "Landesmeisterschaften Soccer",
+  },
+  Object {
+    "date": 1476525600000,
+    "link": Object {
+      "turnierid": "22045",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "6. Kixx Open 2016",
+  },
+  Object {
+    "date": 1476295200000,
+    "link": Object {
+      "turnierid": "22035",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1476005400000,
+    "link": Object {
+      "turnierid": "21146",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Landesmeisterschaften Hamburg 2016 Damen / Herren Einzel",
+  },
+  Object {
+    "date": 1476003600000,
+    "link": Object {
+      "turnierid": "21145",
+      "ver": "1",
+    },
+    "location": "Bredow Treff",
+    "state": "ended",
+    "title": "Berliner Meisterschaft 2016 - Einzel",
+  },
+  Object {
+    "date": 1475919000000,
+    "link": Object {
+      "turnierid": "32",
+      "ver": "2",
+    },
+    "location": "Dortmund",
+    "state": "ended",
+    "title": "Landesmeisterschaften",
+  },
+  Object {
+    "date": 1475917200000,
+    "link": Object {
+      "turnierid": "21140",
+      "ver": "1",
+    },
+    "location": "Kroekelbar",
+    "state": "ended",
+    "title": "Landesmeisterschaften",
+  },
+  Object {
+    "date": 1475917200000,
+    "link": Object {
+      "turnierid": "21141",
+      "ver": "1",
+    },
+    "location": "Bredow Treff",
+    "state": "ended",
+    "title": "Berliner Meisterchaft 2016",
+  },
+  Object {
+    "date": 1475914500000,
+    "link": Object {
+      "turnierid": "21139",
+      "ver": "1",
+    },
+    "location": "Andernach",
+    "state": "ended",
+    "title": "RPTFV-Landesmeisterschaften",
+  },
+  Object {
+    "date": 1475865000000,
+    "link": Object {
+      "turnierid": "21137",
+      "ver": "1",
+    },
+    "location": "FC St. Pauli Clubheim Hamburg",
+    "state": "ended",
+    "title": "KiezKickerKing",
+  },
+  Object {
+    "date": 1475690400000,
+    "link": Object {
+      "turnierid": "21125",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1475400600000,
+    "link": Object {
+      "turnierid": "27",
+      "ver": "2",
+    },
+    "location": "Haltern",
+    "state": "ended",
+    "title": "ITSF Pro Tour Einzel",
+  },
+  Object {
+    "date": 1475314200000,
+    "link": Object {
+      "turnierid": "21114",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Einzelturnierserie Kixx",
+  },
+  Object {
+    "date": 1475312400000,
+    "link": Object {
+      "turnierid": "21113",
+      "ver": "1",
+    },
+    "location": "Eschringen / TFC Folsterhöhe",
+    "state": "ended",
+    "title": "Saarlandmeisterschaften",
+  },
+  Object {
+    "date": 1475310600000,
+    "link": Object {
+      "turnierid": "18",
+      "ver": "2",
+    },
+    "location": "Haltern am See",
+    "state": "ended",
+    "title": "ITSF Pro Tour Doppel",
+  },
+  Object {
+    "date": 1475085600000,
+    "link": Object {
+      "turnierid": "21102",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel",
+  },
+  Object {
+    "date": 1474794000000,
+    "link": Object {
+      "turnierid": "21038",
+      "ver": "1",
+    },
+    "location": "Tante Käthe",
+    "state": "ended",
+    "title": "5. Damen und Senioren Challenger",
+  },
+  Object {
+    "date": 1474790400000,
+    "link": Object {
+      "turnierid": "21027",
+      "ver": "1",
+    },
+    "location": "Siersburg",
+    "state": "ended",
+    "title": "STFV A-Ranglisten Turnier",
+  },
+  Object {
+    "date": 1474741800000,
+    "link": Object {
+      "turnierid": "21036",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Einzelturnier",
+  },
+  Object {
+    "date": 1474480800000,
+    "link": Object {
+      "turnierid": "21028",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel",
+  },
+  Object {
+    "date": 1474200000000,
+    "link": Object {
+      "turnierid": "20997",
+      "ver": "1",
+    },
+    "location": "cassiopeia Berlin",
+    "state": "ended",
+    "title": "2. TFVB Mini-Challenger",
+  },
+  Object {
+    "date": 1474137000000,
+    "link": Object {
+      "turnierid": "21021",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Einzelturnierserie",
+  },
+  Object {
+    "date": 1474051500000,
+    "link": Object {
+      "turnierid": "21019",
+      "ver": "1",
+    },
+    "location": "Hamburg",
+    "state": "ended",
+    "title": "St. Pauli KiezKickerKing",
+  },
+  Object {
+    "date": 1473876000000,
+    "link": Object {
+      "turnierid": "21017",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1473532200000,
+    "link": Object {
+      "turnierid": "21008",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Einzelturnierserie",
+  },
+  Object {
+    "date": 1473499800000,
+    "link": Object {
+      "turnierid": "20991",
+      "ver": "1",
+    },
+    "location": "Ottweiler / Steinbach",
+    "state": "ended",
+    "title": "ITSF Bonzini Masters / Deutsch-Französische Tischfussball Tage",
+  },
+  Object {
+    "date": 1473271200000,
+    "link": Object {
+      "turnierid": "20994",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel",
+  },
+  Object {
+    "date": 1472896800000,
+    "link": Object {
+      "turnierid": "20986",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "5. Kixx Open 2016 ( DTFB Challenger)",
+  },
+  Object {
+    "date": 1472666400000,
+    "link": Object {
+      "turnierid": "20984",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1472382000000,
+    "link": Object {
+      "turnierid": "20972",
+      "ver": "1",
+    },
+    "location": "cassiopeia Berlin",
+    "state": "ended",
+    "title": "1. TFVB Mini-Challenger",
+  },
+  Object {
+    "date": 1472322600000,
+    "link": Object {
+      "turnierid": "20979",
+      "ver": "1",
+    },
+    "location": "Hamburg",
+    "state": "ended",
+    "title": "Kixx Einzelturnierserie",
+  },
+  Object {
+    "date": 1472292000000,
+    "link": Object {
+      "turnierid": "20974",
+      "ver": "1",
+    },
+    "location": "Schwalbach / Saarland",
+    "state": "ended",
+    "title": "Landesmeisterschaften / Bonzini",
+  },
+  Object {
+    "date": 1472290200000,
+    "link": Object {
+      "turnierid": "20951",
+      "ver": "1",
+    },
+    "location": "Düsseldorf",
+    "state": "ended",
+    "title": "2. Düsseldorfer Stadtmeisterschaft",
+  },
+  Object {
+    "date": 1472063400000,
+    "link": Object {
+      "turnierid": "20973",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1471717800000,
+    "link": Object {
+      "turnierid": "20964",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Einzelturnierserie",
+  },
+  Object {
+    "date": 1471690800000,
+    "link": Object {
+      "turnierid": "20953",
+      "ver": "1",
+    },
+    "location": "Siersburg",
+    "state": "ended",
+    "title": "Havanna",
+  },
+  Object {
+    "date": 1471687200000,
+    "link": Object {
+      "turnierid": "20961",
+      "ver": "1",
+    },
+    "location": "3Raumwohnung Oldenburg",
+    "state": "ended",
+    "title": "4. Nordwest Open",
+  },
+  Object {
+    "date": 1471456800000,
+    "link": Object {
+      "turnierid": "20952",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1470477600000,
+    "link": Object {
+      "turnierid": "20938",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "4. Kixx Open 2016",
+  },
+  Object {
+    "date": 1470475800000,
+    "link": Object {
+      "turnierid": "17",
+      "ver": "2",
+    },
+    "location": "BlueBox Siegen",
+    "state": "ended",
+    "title": "5. Siegener Stadtmeisterschaften",
+  },
+  Object {
+    "date": 1470247200000,
+    "link": Object {
+      "turnierid": "20926",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1469871000000,
+    "link": Object {
+      "turnierid": "19341",
+      "ver": "1",
+    },
+    "location": "TFC Schiffweiler",
+    "state": "ended",
+    "title": "B-Rangliste",
+  },
+  Object {
+    "date": 1469642400000,
+    "link": Object {
+      "turnierid": "20908",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1469347200000,
+    "link": Object {
+      "turnierid": "19337",
+      "ver": "1",
+    },
+    "location": "Tischfussball BLZ",
+    "state": "ended",
+    "title": "Challenger Hannover (Doppel am Sonntag)",
+  },
+  Object {
+    "date": 1469298600000,
+    "link": Object {
+      "turnierid": "20897",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Einzelturnierserie Kixx",
+  },
+  Object {
+    "date": 1469260800000,
+    "link": Object {
+      "turnierid": "19336",
+      "ver": "1",
+    },
+    "location": "Tischfußball BLZ",
+    "state": "ended",
+    "title": "Challenger Hannover",
+  },
+  Object {
+    "date": 1469037600000,
+    "link": Object {
+      "turnierid": "20891",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1468661400000,
+    "link": Object {
+      "turnierid": "15713",
+      "ver": "1",
+    },
+    "location": "MULTICULT, AM HAXTENHAUSENHOF 18, 33098 PADERBORN",
+    "state": "ended",
+    "title": "4. Paderborner Stadtmeisterschaft",
+  },
+  Object {
+    "date": 1468432800000,
+    "link": Object {
+      "turnierid": "18726",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1468056600000,
+    "link": Object {
+      "turnierid": "18716",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Einzelturnier",
+  },
+  Object {
+    "date": 1467828000000,
+    "link": Object {
+      "turnierid": "18707",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1467223200000,
+    "link": Object {
+      "turnierid": "18698",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1466618400000,
+    "link": Object {
+      "turnierid": "15717",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdopple Kixx",
+  },
+  Object {
+    "date": 1466323200000,
+    "link": Object {
+      "turnierid": "15709",
+      "ver": "1",
+    },
+    "location": "Bürgerhaus Rockershausen",
+    "state": "ended",
+    "title": "A-Rangliste 30 Jahre Braddock Burbach",
+  },
+  Object {
+    "date": 1466244000000,
+    "link": Object {
+      "turnierid": "15704",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "3. Kixx Open 2016",
+  },
+  Object {
+    "date": 1466013600000,
+    "link": Object {
+      "turnierid": "13065",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1465669800000,
+    "link": Object {
+      "turnierid": "13059",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Einzelturnierserie",
+  },
+  Object {
+    "date": 1465635600000,
+    "link": Object {
+      "turnierid": "16",
+      "ver": "2",
+    },
+    "location": "Grosswallstadt",
+    "state": "ended",
+    "title": "Tornado German Open",
+  },
+  Object {
+    "date": 1465410600000,
+    "link": Object {
+      "turnierid": "13052",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel",
+  },
+  Object {
+    "date": 1465205400000,
+    "link": Object {
+      "turnierid": "13045",
+      "ver": "1",
+    },
+    "location": "dortmund",
+    "state": "ended",
+    "title": "modo",
+  },
+  Object {
+    "date": 1465034400000,
+    "link": Object {
+      "turnierid": "13037",
+      "ver": "1",
+    },
+    "location": "Oldenburg",
+    "state": "ended",
+    "title": "Challenger",
+  },
+  Object {
+    "date": 1464804000000,
+    "link": Object {
+      "turnierid": "13022",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel",
+  },
+  Object {
+    "date": 1464460200000,
+    "link": Object {
+      "turnierid": "13016",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "1. Kixx Mixed 2016",
+  },
+  Object {
+    "date": 1464199200000,
+    "link": Object {
+      "turnierid": "13009",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel",
+  },
+  Object {
+    "date": 1463824800000,
+    "link": Object {
+      "turnierid": "12860",
+      "ver": "1",
+    },
+    "location": "Haus der Jugend, Grosse Gildewart 6-8, 49074 Osnabrück",
+    "state": "ended",
+    "title": "8. Osnabrücker Stadtmeisterschaften",
+  },
+  Object {
+    "date": 1463824800000,
+    "link": Object {
+      "turnierid": "13003",
+      "ver": "1",
+    },
+    "location": "FC St. Pauli Clubheim, Harald-Stender-Platz 1, 20359 HH",
+    "state": "ended",
+    "title": "1. FC St. Pauli Open 2016 - DTFB Challenger",
+  },
+  Object {
+    "date": 1463594400000,
+    "link": Object {
+      "turnierid": "12998",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel",
+  },
+  Object {
+    "date": 1463301000000,
+    "link": Object {
+      "turnierid": "12994",
+      "ver": "1",
+    },
+    "location": "HTW Berlin",
+    "state": "ended",
+    "title": "Berlin Open 2016 (Einzel)",
+  },
+  Object {
+    "date": 1463299200000,
+    "link": Object {
+      "turnierid": "12993",
+      "ver": "1",
+    },
+    "location": "Schützenhaus Schwalbach",
+    "state": "ended",
+    "title": "A-Rangliste TFK Köllerbach",
+  },
+  Object {
+    "date": 1463250600000,
+    "link": Object {
+      "turnierid": "12991",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Einzelturnier",
+  },
+  Object {
+    "date": 1463214600000,
+    "link": Object {
+      "turnierid": "12868",
+      "ver": "1",
+    },
+    "location": "HTW Berlin",
+    "state": "ended",
+    "title": "Berlin Open 2016",
+  },
+  Object {
+    "date": 1462989600000,
+    "link": Object {
+      "turnierid": "12982",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel",
+  },
+  Object {
+    "date": 1462384800000,
+    "link": Object {
+      "turnierid": "12975",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel",
+  },
+  Object {
+    "date": 1462208400000,
+    "link": Object {
+      "turnierid": "12974",
+      "ver": "1",
+    },
+    "location": "Kleine Freiheit | Rheinische Straße 96, 44137 Dortmund",
+    "state": "ended",
+    "title": "Offenes Doppel | Dortmunder Mini-Challenger",
+  },
+  Object {
+    "date": 1462041000000,
+    "link": Object {
+      "turnierid": "12929",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Einzelturnierserie",
+  },
+  Object {
+    "date": 1461780000000,
+    "link": Object {
+      "turnierid": "12925",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Mittwochsdoppel",
+  },
+  Object {
+    "date": 1461403800000,
+    "link": Object {
+      "turnierid": "12918",
+      "ver": "1",
+    },
+    "location": "Kixx",
+    "state": "ended",
+    "title": "Einzelturnier kixx",
+  },
+  Object {
+    "date": 1461175200000,
+    "link": Object {
+      "turnierid": "12910",
+      "ver": "1",
+    },
+    "location": "Kixx",
+    "state": "ended",
+    "title": "Mittwochsdoppel",
+  },
+  Object {
+    "date": 1460799000000,
+    "link": Object {
+      "turnierid": "12900",
+      "ver": "1",
+    },
+    "location": "3RW",
+    "state": "ended",
+    "title": "2.NordwestOpen16",
+  },
+  Object {
+    "date": 1460570400000,
+    "link": Object {
+      "turnierid": "12895",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Mittwochsdoppel",
+  },
+  Object {
+    "date": 1460280600000,
+    "link": Object {
+      "turnierid": "12893",
+      "ver": "1",
+    },
+    "location": "Ballsaal Millerntor, St. Pauli / Hamburg",
+    "state": "ended",
+    "title": "ITSF Pro Tour - Hamburg",
+  },
+  Object {
+    "date": 1460196000000,
+    "link": Object {
+      "turnierid": "12889",
+      "ver": "1",
+    },
+    "location": "Schwalbach",
+    "state": "ended",
+    "title": "Bonzini Challenger",
+  },
+  Object {
+    "date": 1460187000000,
+    "link": Object {
+      "turnierid": "10778",
+      "ver": "1",
+    },
+    "location": "Ballsaal Millerntor, St. Pauli / Hamburg",
+    "state": "ended",
+    "title": "ITSF Pro Tour - Hamburg",
+  },
+  Object {
+    "date": 1460134800000,
+    "link": Object {
+      "turnierid": "12869",
+      "ver": "1",
+    },
+    "location": "Bang Bang Münster",
+    "state": "ended",
+    "title": "Schovelkoten Mini-Challenger",
+  },
+  Object {
+    "date": 1459965600000,
+    "link": Object {
+      "turnierid": "12870",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger - Kixx Mittwochsdoppel",
+  },
+  Object {
+    "date": 1459789200000,
+    "link": Object {
+      "turnierid": "12866",
+      "ver": "1",
+    },
+    "location": "Kleine Freiheit | Rheinische Straße 96, 44137 Dortmund",
+    "state": "ended",
+    "title": "Offenes Doppel | Dortmunder Mini-Challenger",
+  },
+  Object {
+    "date": 1459677600000,
+    "link": Object {
+      "turnierid": "10789",
+      "ver": "1",
+    },
+    "location": "Tischfußball BLZ / Krökelbar",
+    "state": "ended",
+    "title": "Hannover Challenger No10 - Einzel",
+  },
+  Object {
+    "date": 1459621800000,
+    "link": Object {
+      "turnierid": "12861",
+      "ver": "1",
+    },
+    "location": "Hamburg",
+    "state": "ended",
+    "title": "Einzelturnier Kixx",
+  },
+  Object {
+    "date": 1459591200000,
+    "link": Object {
+      "turnierid": "10788",
+      "ver": "1",
+    },
+    "location": "Tischfußball BLZ Krökelbar",
+    "state": "ended",
+    "title": "Hannover Challenger No9 - Doppel",
+  },
+  Object {
+    "date": 1459330200000,
+    "link": Object {
+      "turnierid": "12855",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1458759600000,
+    "link": Object {
+      "turnierid": "12836",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1458556200000,
+    "link": Object {
+      "turnierid": "12819",
+      "ver": "1",
+    },
+    "location": "kleine Freiheit | Rheinische Straße 96, 44137 Dortmund",
+    "state": "ended",
+    "title": "kleine Freiheit Dortmund | Monster-D.Y.P",
+  },
+  Object {
+    "date": 1458154800000,
+    "link": Object {
+      "turnierid": "12806",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1457780400000,
+    "link": Object {
+      "turnierid": "12031",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "2. Kixx Open 2016 - DTFB Challenger",
+  },
+  Object {
+    "date": 1457550000000,
+    "link": Object {
+      "turnierid": "12023",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Mittwochsdoppel Kixx)",
+  },
+  Object {
+    "date": 1457375400000,
+    "link": Object {
+      "turnierid": "10786",
+      "ver": "1",
+    },
+    "location": "Kleine Freiheit, Rheinische Str. 96, 44137 Dortmund",
+    "state": "ended",
+    "title": "OD Dortmund",
+  },
+  Object {
+    "date": 1457260200000,
+    "link": Object {
+      "turnierid": "10794",
+      "ver": "1",
+    },
+    "location": "72793 Pfullingen",
+    "state": "ended",
+    "title": "ITSF Pro Tour Pfullingen - Einzel",
+  },
+  Object {
+    "date": 1457179200000,
+    "link": Object {
+      "turnierid": "10787",
+      "ver": "1",
+    },
+    "location": "Schwalbach",
+    "state": "ended",
+    "title": "Best of the Best",
+  },
+  Object {
+    "date": 1456945200000,
+    "link": Object {
+      "turnierid": "10783",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Minichallenger - Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1456601400000,
+    "link": Object {
+      "turnierid": "10779",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Einzelturnierserie Kixx",
+  },
+  Object {
+    "date": 1456425000000,
+    "link": Object {
+      "turnierid": "10766",
+      "ver": "1",
+    },
+    "location": "Deggendorf",
+    "state": "ended",
+    "title": "Mini - Challanger Deggendorf",
+  },
+  Object {
+    "date": 1456340400000,
+    "link": Object {
+      "turnierid": "10772",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1455996600000,
+    "link": Object {
+      "turnierid": "10765",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Einzelturnierserie",
+  },
+  Object {
+    "date": 1455906600000,
+    "link": Object {
+      "turnierid": "3",
+      "ver": "2",
+    },
+    "location": "Uckerath",
+    "state": "ended",
+    "title": "Partyhaus Landsknecht Kicker Cup",
+  },
+  Object {
+    "date": 1455735600000,
+    "link": Object {
+      "turnierid": "10762",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1455362100000,
+    "link": Object {
+      "turnierid": "10757",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "1. Kixx Open 2016 - Challenger",
+  },
+  Object {
+    "date": 1455130800000,
+    "link": Object {
+      "turnierid": "10752",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1454787000000,
+    "link": Object {
+      "turnierid": "5803",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger Einzel",
+  },
+  Object {
+    "date": 1454754600000,
+    "link": Object {
+      "turnierid": "5755",
+      "ver": "1",
+    },
+    "location": "Hardys Laerheidestr. 26 , 44799 Bochum",
+    "state": "ended",
+    "title": "Stadtmeisterschaften",
+  },
+  Object {
+    "date": 1454526000000,
+    "link": Object {
+      "turnierid": "5796",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1454409000000,
+    "link": Object {
+      "turnierid": "5788",
+      "ver": "1",
+    },
+    "location": "Kleine Freiheit, Dortmund",
+    "state": "ended",
+    "title": "OD Kleine Freiheit",
+  },
+  Object {
+    "date": 1454182200000,
+    "link": Object {
+      "turnierid": "5792",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Finale Mittwochsdoppel-Serie 2015",
+  },
+  Object {
+    "date": 1454095800000,
+    "link": Object {
+      "turnierid": "5791",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Einzelturnierserie Finale",
+  },
+  Object {
+    "date": 1453921200000,
+    "link": Object {
+      "turnierid": "5774",
+      "ver": "1",
+    },
+    "location": "Hamburg",
+    "state": "ended",
+    "title": "MittwochsDYP",
+  },
+  Object {
+    "date": 1453577400000,
+    "link": Object {
+      "turnierid": "5770",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger Einzel (Kixx Einzelturnierserie)",
+  },
+  Object {
+    "date": 1453316400000,
+    "link": Object {
+      "turnierid": "5769",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1452711600000,
+    "link": Object {
+      "turnierid": "5756",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1452337200000,
+    "link": Object {
+      "turnierid": "5752",
+      "ver": "1",
+    },
+    "location": "3RaumWohnung",
+    "state": "ended",
+    "title": "Neujahrs Open 2016 Oldenburg",
+  },
+  Object {
+    "date": 1451502000000,
+    "link": Object {
+      "turnierid": "5749",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1450897200000,
+    "link": Object {
+      "turnierid": "5746",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx-Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1450521000000,
+    "link": Object {
+      "turnierid": "5731",
+      "ver": "1",
+    },
+    "location": "Münster",
+    "state": "ended",
+    "title": "5. Münsteraner Stadtmeisterschaften",
+  },
+  Object {
+    "date": 1450292400000,
+    "link": Object {
+      "turnierid": "5741",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1449687600000,
+    "link": Object {
+      "turnierid": "5736",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1449082800000,
+    "link": Object {
+      "turnierid": "5734",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1448787600000,
+    "link": Object {
+      "turnierid": "5728",
+      "ver": "1",
+    },
+    "location": "Schwalbach",
+    "state": "ended",
+    "title": "Adventsturnier",
+  },
+  Object {
+    "date": 1448708400000,
+    "link": Object {
+      "turnierid": "5724",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "7. Kixx Open 2015",
+  },
+  Object {
+    "date": 1448447400000,
+    "link": Object {
+      "turnierid": "5721",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1447873200000,
+    "link": Object {
+      "turnierid": "5716",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1447489800000,
+    "link": Object {
+      "turnierid": "5715",
+      "ver": "1",
+    },
+    "location": "Medebach",
+    "state": "ended",
+    "title": "Deutsche Meisterschaft 2015",
+  },
+  Object {
+    "date": 1447268400000,
+    "link": Object {
+      "turnierid": "5710",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger / Kixx Mittwochsdoppel",
+  },
+  Object {
+    "date": 1446892200000,
+    "link": Object {
+      "turnierid": "5708",
+      "ver": "1",
+    },
+    "location": "Paderborn",
+    "state": "ended",
+    "title": "UNi DM 2015",
+  },
+  Object {
+    "date": 1446633000000,
+    "link": Object {
+      "turnierid": "5705",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger Kixx Mittwochsdoppel",
+  },
+  Object {
+    "date": 1446285600000,
+    "link": Object {
+      "turnierid": "5704",
+      "ver": "1",
+    },
+    "location": "Herten",
+    "state": "ended",
+    "title": "Landesmeisterschaften",
+  },
+  Object {
+    "date": 1446028200000,
+    "link": Object {
+      "turnierid": "5699",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger - Kixx Mittwochsdoppel",
+  },
+  Object {
+    "date": 1445419800000,
+    "link": Object {
+      "turnierid": "5698",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger - Kixx Mittwochsdoppel",
+  },
+  Object {
+    "date": 1445076000000,
+    "link": Object {
+      "turnierid": "600",
+      "ver": "1",
+    },
+    "location": "Haus der Jugend Osnabrueck",
+    "state": "ended",
+    "title": "7. Osnabruecker Stadtmeisterschaft",
+  },
+  Object {
+    "date": 1444845600000,
+    "link": Object {
+      "turnierid": "5696",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Mittwochsdoppel (Mini-Challenger)",
+  },
+  Object {
+    "date": 1444561200000,
+    "link": Object {
+      "turnierid": "5672",
+      "ver": "1",
+    },
+    "location": "Kixx - Hamburg",
+    "state": "ended",
+    "title": "Landesmeisterschaften Hamburg 2015 Einzel",
+  },
+  Object {
+    "date": 1444469400000,
+    "link": Object {
+      "turnierid": "626",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Landesmeisterschaften Hamburg 2015",
+  },
+  Object {
+    "date": 1444465800000,
+    "link": Object {
+      "turnierid": "622",
+      "ver": "1",
+    },
+    "location": "Herten",
+    "state": "ended",
+    "title": "ITSF ProTour",
+  },
+  Object {
+    "date": 1444240800000,
+    "link": Object {
+      "turnierid": "623",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1443951000000,
+    "link": Object {
+      "turnierid": "612",
+      "ver": "1",
+    },
+    "location": "Kixx",
+    "state": "ended",
+    "title": "2. Kixx Open Einzel",
+  },
+  Object {
+    "date": 1443864600000,
+    "link": Object {
+      "turnierid": "609",
+      "ver": "1",
+    },
+    "location": "Kixx",
+    "state": "ended",
+    "title": "6. Kixx Open 2015",
+  },
+  Object {
+    "date": 1443778200000,
+    "link": Object {
+      "turnierid": "608",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Challenger - Kixx Open 2015 - Hamburg",
+  },
+  Object {
+    "date": 1443636000000,
+    "link": Object {
+      "turnierid": "606",
+      "ver": "1",
+    },
+    "location": "Kixx - Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger Kixx Mittwochsdoppel",
+  },
+  Object {
+    "date": 1442395800000,
+    "link": Object {
+      "turnierid": "601",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Mittwochsdoppel (Minichallenger)",
+  },
+  Object {
+    "date": 1441791000000,
+    "link": Object {
+      "turnierid": "599",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Mittwochsdoppel (Mini-Challenger)",
+  },
+  Object {
+    "date": 1441528200000,
+    "link": Object {
+      "turnierid": "592",
+      "ver": "1",
+    },
+    "location": "Remmesweiler",
+    "state": "ended",
+    "title": "Saarland Hansberg 2015 Sonntag",
+  },
+  Object {
+    "date": 1441445400000,
+    "link": Object {
+      "turnierid": "106",
+      "ver": "1",
+    },
+    "location": "Remmesweiler",
+    "state": "ended",
+    "title": "Saarlandmeisterschaft Handsberg 2015 Samstag",
+  },
+  Object {
+    "date": 1441389600000,
+    "link": Object {
+      "turnierid": "103",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Challenger - Damen & Seniorendoppel",
+  },
+  Object {
+    "date": 1441216800000,
+    "link": Object {
+      "turnierid": "98",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Mittwochsdoppel Minichallenger",
+  },
+  Object {
+    "date": 1440919800000,
+    "link": Object {
+      "turnierid": "92",
+      "ver": "1",
+    },
+    "location": "Grosswallstadt",
+    "state": "ended",
+    "title": "Tornado German Open 2015",
+  },
+  Object {
+    "date": 1440840600000,
+    "link": Object {
+      "turnierid": "89",
+      "ver": "1",
+    },
+    "location": "Grosswallstadt",
+    "state": "ended",
+    "title": "Tornado German Open 2015",
+  },
+  Object {
+    "date": 1440581400000,
+    "link": Object {
+      "turnierid": "88",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Mittwochsdoppel (Minichallenger)",
+  },
+  Object {
+    "date": 1439026200000,
+    "link": Object {
+      "turnierid": "63",
+      "ver": "1",
+    },
+    "location": "Siegen",
+    "state": "ended",
+    "title": "4. Siegener Stadtmeisterschaften",
+  },
+  Object {
+    "date": 1439026200000,
+    "link": Object {
+      "turnierid": "80",
+      "ver": "1",
+    },
+    "location": "Schwalbach",
+    "state": "ended",
+    "title": "1. Saarland Open",
+  },
+  Object {
+    "date": 1437210000000,
+    "link": Object {
+      "turnierid": "55",
+      "ver": "1",
+    },
+    "location": "Paderborn",
+    "state": "ended",
+    "title": "3.Paderborner Stadtmeisterschaften",
+  },
+  Object {
+    "date": 1435915800000,
+    "link": Object {
+      "turnierid": "48",
+      "ver": "1",
+    },
+    "location": "Kixx - Hamburg",
+    "state": "ended",
+    "title": "3. Damen Open Kixx",
+  },
+  Object {
+    "date": 1435138200000,
+    "link": Object {
+      "turnierid": "41",
+      "ver": "1",
+    },
+    "location": "Kixx - Hamburg",
+    "state": "ended",
+    "title": "Kixx Mittwochsdoppel",
+  },
+  Object {
+    "date": 1434825000000,
+    "link": Object {
+      "turnierid": "40",
+      "ver": "1",
+    },
+    "location": "Kixx - Hamburg",
+    "state": "ended",
+    "title": "Challenger",
+  },
+  Object {
+    "date": 1434562200000,
+    "link": Object {
+      "turnierid": "39",
+      "ver": "1",
+    },
+    "location": "Kixx - Hamburg",
+    "state": "ended",
+    "title": "MittwochsDYP",
+  },
+  Object {
+    "date": 1434187800000,
+    "link": Object {
+      "turnierid": "38",
+      "ver": "1",
+    },
+    "location": "Kixx - Hamburg",
+    "state": "ended",
+    "title": "Einzelturnier",
+  },
+  Object {
+    "date": 1433583000000,
+    "link": Object {
+      "turnierid": "30",
+      "ver": "1",
+    },
+    "location": "Kleve",
+    "state": "ended",
+    "title": "3. Klever Stadtmeisterschaft",
+  },
+  Object {
+    "date": 1432369800000,
+    "link": Object {
+      "turnierid": "21",
+      "ver": "1",
+    },
+    "location": "HTW",
+    "state": "ended",
+    "title": "Berlin Open",
+  },
+  Object {
+    "date": 1427538600000,
+    "link": Object {
+      "turnierid": "12",
+      "ver": "1",
+    },
+    "location": "Marburg",
+    "state": "ended",
+    "title": "2. Mittelhessische Meisterschaften - ITSF Masters",
+  },
+  Object {
+    "date": 1425117600000,
+    "link": Object {
+      "turnierid": "3",
+      "ver": "1",
+    },
+    "location": "Uckerath",
+    "state": "ended",
+    "title": "Landsknecht Kicker Cup",
+  },
+  Object {
+    "date": 1425060000000,
+    "link": Object {
+      "turnierid": "2",
+      "ver": "1",
+    },
+    "location": "Uckerath",
+    "state": "ended",
+    "title": "Landsknecht Kicker Cup WarmUp Doppel",
+  },
+]
+`;
+
+exports[`List of tournaments should find one active tournament 1`] = `
+Array [
+  Object {
+    "date": 1500312600000,
+    "link": Object {
+      "turnierid": "25780",
+      "ver": "1",
+    },
+    "location": "Freiburg, Kiez 57",
+    "state": "active",
+    "title": "Montags-Einzel im Kiez 3",
+  },
+]
+`;
+
+exports[`List of tournaments should find three planned tournaments 1`] = `
+Array [
+  Object {
+    "date": 1500802200000,
+    "link": Object {
+      "turnierid": "25779",
+      "ver": "1",
+    },
+    "location": "Haus der Begegnung, Habichtweg 48, Freiburg",
+    "state": "planned",
+    "title": "1. Freiburger DTFB-Challenger",
+  },
+  Object {
+    "date": 1501925400000,
+    "link": Object {
+      "turnierid": "25763",
+      "ver": "1",
+    },
+    "location": "ZAKK, Fichtenstr. 40, 40233 Düsseldorf",
+    "state": "planned",
+    "title": "Stadtmeisterschaft Düsseldorf",
+  },
+  Object {
+    "date": 1514631600000,
+    "link": Object {
+      "turnierid": "25524",
+      "ver": "1",
+    },
+    "location": "Gasthof Ruhe Hauptstraße 74 26903 Surwold",
+    "state": "planned",
+    "title": "2 Surwolder Stadtmeisterschaft 2017",
+  },
+]
+`;
+
+exports[`List of tournaments should parse the table of tournaments to a JSON array 1`] = `
+Array [
+  Object {
+    "date": 1500312600000,
+    "link": Object {
+      "turnierid": "25780",
+      "ver": "1",
+    },
+    "location": "Freiburg, Kiez 57",
+    "state": "active",
+    "title": "Montags-Einzel im Kiez 3",
+  },
+  Object {
+    "date": 1500802200000,
+    "link": Object {
+      "turnierid": "25779",
+      "ver": "1",
+    },
+    "location": "Haus der Begegnung, Habichtweg 48, Freiburg",
+    "state": "planned",
+    "title": "1. Freiburger DTFB-Challenger",
+  },
+  Object {
+    "date": 1501925400000,
+    "link": Object {
+      "turnierid": "25763",
+      "ver": "1",
+    },
+    "location": "ZAKK, Fichtenstr. 40, 40233 Düsseldorf",
+    "state": "planned",
+    "title": "Stadtmeisterschaft Düsseldorf",
+  },
+  Object {
+    "date": 1514631600000,
+    "link": Object {
+      "turnierid": "25524",
+      "ver": "1",
+    },
+    "location": "Gasthof Ruhe Hauptstraße 74 26903 Surwold",
+    "state": "planned",
+    "title": "2 Surwolder Stadtmeisterschaft 2017",
+  },
+  Object {
+    "date": 1500222600000,
+    "link": Object {
+      "turnierid": "25761",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Sundays Open Single",
+  },
+  Object {
+    "date": 1500143400000,
+    "link": Object {
+      "turnierid": "79",
+      "ver": "2",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Einzelturnier Kixx",
+  },
+  Object {
+    "date": 1500141600000,
+    "link": Object {
+      "turnierid": "25777",
+      "ver": "1",
+    },
+    "location": "Tante Käthe",
+    "state": "ended",
+    "title": "Tante Käthes Wochenend Sommer BYP",
+  },
+  Object {
+    "date": 1500111000000,
+    "link": Object {
+      "turnierid": "77",
+      "ver": "2",
+    },
+    "location": "MULTICULT - Am Haxthausenhof 18, 33098 Paderborn",
+    "state": "ended",
+    "title": "5. Paderborner Stadtmeisterschaften - Jubiläums-WE: 10 Jahre KL PB - Sa (Doppel) + So (Einzel)",
+  },
+  Object {
+    "date": 1500057000000,
+    "link": Object {
+      "turnierid": "25774",
+      "ver": "1",
+    },
+    "location": "FC St. Pauli Clubheim, Hamburg",
+    "state": "ended",
+    "title": "KiezKickerKing St. Pauli",
+  },
+  Object {
+    "date": 1500057000000,
+    "link": Object {
+      "turnierid": "78",
+      "ver": "2",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "No-Pro Turnier Kixx",
+  },
+  Object {
+    "date": 1499882400000,
+    "link": Object {
+      "turnierid": "76",
+      "ver": "2",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1499796000000,
+    "link": Object {
+      "turnierid": "75",
+      "ver": "2",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Goalie War Turnier 3.",
+  },
+  Object {
+    "date": 1499794200000,
+    "link": Object {
+      "turnierid": "25759",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99, 10245 Berlin",
+    "state": "ended",
+    "title": "Dienstags-Doppel",
+  },
+  Object {
+    "date": 1499707800000,
+    "link": Object {
+      "turnierid": "25757",
+      "ver": "1",
+    },
+    "location": "Freiburg, Kiez 57",
+    "state": "ended",
+    "title": "Montags-Einzel im Kiez 3",
+  },
+  Object {
+    "date": 1499617800000,
+    "link": Object {
+      "turnierid": "25746",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Sundays Open Single",
+  },
+  Object {
+    "date": 1499536800000,
+    "link": Object {
+      "turnierid": "25753",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "Tante Käthe Sommer BYP",
+  },
+  Object {
+    "date": 1499452200000,
+    "link": Object {
+      "turnierid": "74",
+      "ver": "2",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "No-Pro Turnier Kixx",
+  },
+  Object {
+    "date": 1499277600000,
+    "link": Object {
+      "turnierid": "73",
+      "ver": "2",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1499191200000,
+    "link": Object {
+      "turnierid": "72",
+      "ver": "2",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Goalie War Turnier 2. Kixx",
+  },
+  Object {
+    "date": 1499189400000,
+    "link": Object {
+      "turnierid": "25732",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Dienstags-Doppel",
+  },
+  Object {
+    "date": 1499103000000,
+    "link": Object {
+      "turnierid": "25745",
+      "ver": "1",
+    },
+    "location": "Freiburg, Kiez 57",
+    "state": "ended",
+    "title": "Montags-Einzel im Kiez",
+  },
+  Object {
+    "date": 1499013000000,
+    "link": Object {
+      "turnierid": "25733",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Sundays Open Single",
+  },
+  Object {
+    "date": 1498933800000,
+    "link": Object {
+      "turnierid": "71",
+      "ver": "2",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Einzelturnierserie Kixx",
+  },
+  Object {
+    "date": 1498903200000,
+    "link": Object {
+      "turnierid": "25736",
+      "ver": "1",
+    },
+    "location": "Flensburg",
+    "state": "ended",
+    "title": "3. MKK Challenger 2017",
+  },
+  Object {
+    "date": 1498847400000,
+    "link": Object {
+      "turnierid": "70",
+      "ver": "2",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "No-Pro Turnier Kixx",
+  },
+  Object {
+    "date": 1498845600000,
+    "link": Object {
+      "turnierid": "25729",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "7. Tante Käthe TFVB Mini-Challenger (OE)",
+  },
+  Object {
+    "date": 1498672800000,
+    "link": Object {
+      "turnierid": "69",
+      "ver": "2",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1498586400000,
+    "link": Object {
+      "turnierid": "68",
+      "ver": "2",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Goalie War Turnierserie Kixx 2017",
+  },
+  Object {
+    "date": 1498584540000,
+    "link": Object {
+      "turnierid": "25720",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Dienstags-Doppel (MC)",
+  },
+  Object {
+    "date": 1498329000000,
+    "link": Object {
+      "turnierid": "25717",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Einzelturnier Kixx",
+  },
+  Object {
+    "date": 1498242600000,
+    "link": Object {
+      "turnierid": "25714",
+      "ver": "1",
+    },
+    "location": "Kixx",
+    "state": "ended",
+    "title": "No Pro Turnier Kixx",
+  },
+  Object {
+    "date": 1498068000000,
+    "link": Object {
+      "turnierid": "66",
+      "ver": "2",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1497979800000,
+    "link": Object {
+      "turnierid": "25667",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Dienstags-Doppel",
+  },
+  Object {
+    "date": 1497893400000,
+    "link": Object {
+      "turnierid": "25697",
+      "ver": "1",
+    },
+    "location": "Freiburg, Kiez 57",
+    "state": "ended",
+    "title": "Montags-Einzel im Kiez",
+  },
+  Object {
+    "date": 1497803400000,
+    "link": Object {
+      "turnierid": "25665",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Sunday Open Single",
+  },
+  Object {
+    "date": 1497693600000,
+    "link": Object {
+      "turnierid": "25693",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "4. Kixx Open 2017 - DTFB Challenger",
+  },
+  Object {
+    "date": 1497637800000,
+    "link": Object {
+      "turnierid": "25691",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Kixx No-Pro Turnier",
+  },
+  Object {
+    "date": 1497463200000,
+    "link": Object {
+      "turnierid": "25685",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1497375000000,
+    "link": Object {
+      "turnierid": "25666",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Dienstags-Doppel",
+  },
+  Object {
+    "date": 1497173400000,
+    "link": Object {
+      "turnierid": "25676",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245",
+    "state": "ended",
+    "title": "Sunday Open Single - 2. Versuch",
+  },
+  Object {
+    "date": 1497088800000,
+    "link": Object {
+      "turnierid": "65",
+      "ver": "2",
+    },
+    "location": "Haus der Jugend, Grosse Gildewart 6-8, 49074 Osnabrück",
+    "state": "ended",
+    "title": "9. Osnabrücker Stadtmeisterschaften",
+  },
+  Object {
+    "date": 1497033000000,
+    "link": Object {
+      "turnierid": "25672",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "No-Pro Turnier Kixx",
+  },
+  Object {
+    "date": 1497000600000,
+    "link": Object {
+      "turnierid": "25670",
+      "ver": "1",
+    },
+    "location": "Tante Käthe",
+    "state": "ended",
+    "title": "Käthe mit allen Spielernamen",
+  },
+  Object {
+    "date": 1496860200000,
+    "link": Object {
+      "turnierid": "25654",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1496770200000,
+    "link": Object {
+      "turnierid": "25653",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Dienstags-Doppel",
+  },
+  Object {
+    "date": 1496593800000,
+    "link": Object {
+      "turnierid": "25649",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Sunday Open Single",
+  },
+  Object {
+    "date": 1496514600000,
+    "link": Object {
+      "turnierid": "25647",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Einzelturnier Kixx",
+  },
+  Object {
+    "date": 1496478600000,
+    "link": Object {
+      "turnierid": "63",
+      "ver": "2",
+    },
+    "location": "Phoenix Gymnasium, Seekante 12, 44236 Dortmund",
+    "state": "ended",
+    "title": "ITSF Master Series Dortmund",
+  },
+  Object {
+    "date": 1496428200000,
+    "link": Object {
+      "turnierid": "25644",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "No-Pro Turnier Kixx",
+  },
+  Object {
+    "date": 1496253600000,
+    "link": Object {
+      "turnierid": "25637",
+      "ver": "1",
+    },
+    "location": "Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1496165400000,
+    "link": Object {
+      "turnierid": "25631",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Dienstags-Doppel",
+  },
+  Object {
+    "date": 1495989000000,
+    "link": Object {
+      "turnierid": "25630",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Sunday Open Single",
+  },
+  Object {
+    "date": 1495962000000,
+    "link": Object {
+      "turnierid": "25629",
+      "ver": "1",
+    },
+    "location": "Tante Käthe",
+    "state": "ended",
+    "title": "D/S Challenger",
+  },
+  Object {
+    "date": 1495909800000,
+    "link": Object {
+      "turnierid": "25628",
+      "ver": "1",
+    },
+    "location": "Hamburg",
+    "state": "ended",
+    "title": "Einzelturnier Kixx",
+  },
+  Object {
+    "date": 1495879200000,
+    "link": Object {
+      "turnierid": "25627",
+      "ver": "1",
+    },
+    "location": "Rostock",
+    "state": "ended",
+    "title": "2. Challenger MV 2017",
+  },
+  Object {
+    "date": 1495824300000,
+    "link": Object {
+      "turnierid": "25624",
+      "ver": "1",
+    },
+    "location": "FCSP Clubheim, Hamburg",
+    "state": "ended",
+    "title": "KiezKickerKing",
+  },
+  Object {
+    "date": 1495650600000,
+    "link": Object {
+      "turnierid": "25617",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1495645200000,
+    "link": Object {
+      "turnierid": "25608",
+      "ver": "1",
+    },
+    "location": "BBW Heinrich-Haus, Stiftsstr. 1, Neuwied (Heimbach-Weis)",
+    "state": "ended",
+    "title": "TFBS Koblenz Mittwochsdoppel",
+  },
+  Object {
+    "date": 1495384200000,
+    "link": Object {
+      "turnierid": "25611",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Sundays Open Single",
+  },
+  Object {
+    "date": 1495305000000,
+    "link": Object {
+      "turnierid": "25610",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Einzelturnier Kixx",
+  },
+  Object {
+    "date": 1495303200000,
+    "link": Object {
+      "turnierid": "25609",
+      "ver": "1",
+    },
+    "location": "Amsterdam",
+    "state": "ended",
+    "title": "Club Foos Open Doubles",
+  },
+  Object {
+    "date": 1495218600000,
+    "link": Object {
+      "turnierid": "25604",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "No-Pro Turnier Kixx",
+  },
+  Object {
+    "date": 1495216800000,
+    "link": Object {
+      "turnierid": "25605",
+      "ver": "1",
+    },
+    "location": "Tante Käthe",
+    "state": "ended",
+    "title": "6. Tante Käthe TFVB Mini-Challenger (OE)",
+  },
+  Object {
+    "date": 1495216800000,
+    "link": Object {
+      "turnierid": "62",
+      "ver": "2",
+    },
+    "location": "'t Weverke Schimmert",
+    "state": "ended",
+    "title": "Finale Challenger 't Weverke",
+  },
+  Object {
+    "date": 1494955800000,
+    "link": Object {
+      "turnierid": "25592",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99, 10245 Berlin",
+    "state": "ended",
+    "title": "Dienstags-Doppel",
+  },
+  Object {
+    "date": 1494779400000,
+    "link": Object {
+      "turnierid": "25589",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Sunday Open Single",
+  },
+  Object {
+    "date": 1494700200000,
+    "link": Object {
+      "turnierid": "25587",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Einzelturnier Kixx",
+  },
+  Object {
+    "date": 1494664200000,
+    "link": Object {
+      "turnierid": "61",
+      "ver": "2",
+    },
+    "location": "Schönberghalle Pfullingen, Klosterstraße 112, 72793 Pfullingen",
+    "state": "ended",
+    "title": "ITSF Pro Tour Pfullingen 2017",
+  },
+  Object {
+    "date": 1494613800000,
+    "link": Object {
+      "turnierid": "25580",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "No-Pro Turnier Kixx",
+  },
+  Object {
+    "date": 1494613800000,
+    "link": Object {
+      "turnierid": "25581",
+      "ver": "1",
+    },
+    "location": "FC St. Pauli",
+    "state": "ended",
+    "title": "FC St. Pauli KiezKickerKing",
+  },
+  Object {
+    "date": 1494439200000,
+    "link": Object {
+      "turnierid": "25565",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1494174600000,
+    "link": Object {
+      "turnierid": "25559",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia Einzel",
+  },
+  Object {
+    "date": 1494093600000,
+    "link": Object {
+      "turnierid": "25558",
+      "ver": "1",
+    },
+    "location": "Amsterdam",
+    "state": "ended",
+    "title": "Club Foos Open Singles",
+  },
+  Object {
+    "date": 1494064800000,
+    "link": Object {
+      "turnierid": "25556",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "3. Kixx Open 2017 - DTFB Challenger",
+  },
+  Object {
+    "date": 1494009000000,
+    "link": Object {
+      "turnierid": "25555",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "No-Pro Turnier Kixx",
+  },
+  Object {
+    "date": 1494007200000,
+    "link": Object {
+      "turnierid": "25560",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "6. Tante Käthe TFVB Mini-Challenger",
+  },
+  Object {
+    "date": 1493834400000,
+    "link": Object {
+      "turnierid": "25543",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1493830800000,
+    "link": Object {
+      "turnierid": "25546",
+      "ver": "1",
+    },
+    "location": "Stiftsstr. 1, Neuwied (Heimbach-Weis)",
+    "state": "ended",
+    "title": "TFBS Koblenz Mittwochsdoppel",
+  },
+  Object {
+    "date": 1493569800000,
+    "link": Object {
+      "turnierid": "25534",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia Offenes Einzel",
+  },
+  Object {
+    "date": 1493488800000,
+    "link": Object {
+      "turnierid": "58",
+      "ver": "2",
+    },
+    "location": "Café Dingus Heerlen",
+    "state": "ended",
+    "title": "Dingus Challenger",
+  },
+  Object {
+    "date": 1493460000000,
+    "link": Object {
+      "turnierid": "25435",
+      "ver": "1",
+    },
+    "location": "3Raumwohnung, Abraham 13, 26122 Oldenburg",
+    "state": "ended",
+    "title": "4. Nordwest Open 2017",
+  },
+  Object {
+    "date": 1493404200000,
+    "link": Object {
+      "turnierid": "25529",
+      "ver": "1",
+    },
+    "location": "Ex-Sparr Hamburg",
+    "state": "ended",
+    "title": "KiezKickerKing",
+  },
+  Object {
+    "date": 1493402400000,
+    "link": Object {
+      "turnierid": "25528",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "No-Pro Turnier Kixx",
+  },
+  Object {
+    "date": 1493229600000,
+    "link": Object {
+      "turnierid": "25515",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Kixx Mittwochsdoppel",
+  },
+  Object {
+    "date": 1493141400000,
+    "link": Object {
+      "turnierid": "25499",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia Offenes Doppel",
+  },
+  Object {
+    "date": 1493026200000,
+    "link": Object {
+      "turnierid": "57",
+      "ver": "2",
+    },
+    "location": "Bielefeld",
+    "state": "ended",
+    "title": "mehr Spaß im GGÜ",
+  },
+  Object {
+    "date": 1492965000000,
+    "link": Object {
+      "turnierid": "25507",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia Offenes Einzel",
+  },
+  Object {
+    "date": 1492857000000,
+    "link": Object {
+      "turnierid": "25504",
+      "ver": "1",
+    },
+    "location": "Schützenhaus Schwalbach Saar",
+    "state": "ended",
+    "title": "Landesmeisterschaften Bonzini",
+  },
+  Object {
+    "date": 1492853400000,
+    "link": Object {
+      "turnierid": "25505",
+      "ver": "1",
+    },
+    "location": "Amsterdam",
+    "state": "ended",
+    "title": "Open Doubles 22 april 2017",
+  },
+  Object {
+    "date": 1492853400000,
+    "link": Object {
+      "turnierid": "25506",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Einzelturnier Kixx",
+  },
+  Object {
+    "date": 1492799400000,
+    "link": Object {
+      "turnierid": "25494",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "No-Pro Turnier Kixx",
+  },
+  Object {
+    "date": 1492624800000,
+    "link": Object {
+      "turnierid": "25487",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1492453800000,
+    "link": Object {
+      "turnierid": "56",
+      "ver": "2",
+    },
+    "location": "Bielefeld",
+    "state": "ended",
+    "title": "Spaß im GGÜ",
+  },
+  Object {
+    "date": 1492335000000,
+    "link": Object {
+      "turnierid": "25481",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia Mini-Challenger",
+  },
+  Object {
+    "date": 1492277400000,
+    "link": Object {
+      "turnierid": "25480",
+      "ver": "1",
+    },
+    "location": "Werne -NRW- Rubberduck e.V.",
+    "state": "ended",
+    "title": "Monster-DYP Serie",
+  },
+  Object {
+    "date": 1492020000000,
+    "link": Object {
+      "turnierid": "25471",
+      "ver": "1",
+    },
+    "location": "Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1491931800000,
+    "link": Object {
+      "turnierid": "25460",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Straße 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia Dienstags-Doppel",
+  },
+  Object {
+    "date": 1491757200000,
+    "link": Object {
+      "turnierid": "25443",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "Offenes Einzel + DYP",
+  },
+  Object {
+    "date": 1491676200000,
+    "link": Object {
+      "turnierid": "25463",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Einzelturnier Kixx",
+  },
+  Object {
+    "date": 1491589800000,
+    "link": Object {
+      "turnierid": "25458",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "No-Pro Turnier",
+  },
+  Object {
+    "date": 1491588000000,
+    "link": Object {
+      "turnierid": "25456",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "5. Tante Käthe TFVB Mini-Challenger",
+  },
+  Object {
+    "date": 1491415200000,
+    "link": Object {
+      "turnierid": "25449",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1491325200000,
+    "link": Object {
+      "turnierid": "25441",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia Dienstags-Doppel",
+  },
+  Object {
+    "date": 1491152400000,
+    "link": Object {
+      "turnierid": "25439",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia Mini-Challenger #2",
+  },
+  Object {
+    "date": 1491071400000,
+    "link": Object {
+      "turnierid": "25437",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Einzelturnier Kixx",
+  },
+  Object {
+    "date": 1491069600000,
+    "link": Object {
+      "turnierid": "25436",
+      "ver": "1",
+    },
+    "location": "Amsterdam",
+    "state": "ended",
+    "title": "Club Foos Open Singles",
+  },
+  Object {
+    "date": 1491039000000,
+    "link": Object {
+      "turnierid": "54",
+      "ver": "2",
+    },
+    "location": "SchücoArena, Melanchthonstr. 31a, 33615 Bielefeld",
+    "state": "ended",
+    "title": "1. Bielefelder Stadtmeisterschaft",
+  },
+  Object {
+    "date": 1490983200000,
+    "link": Object {
+      "turnierid": "25430",
+      "ver": "1",
+    },
+    "location": "Tante Käthe",
+    "state": "ended",
+    "title": "4. Tante Käthe TFVB Mini-Challenger (OE)",
+  },
+  Object {
+    "date": 1490810400000,
+    "link": Object {
+      "turnierid": "25427",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1490722200000,
+    "link": Object {
+      "turnierid": "25424",
+      "ver": "1",
+    },
+    "location": "cassiopeia Berlin, Revaler Strasse 99",
+    "state": "ended",
+    "title": "cassiopeia Dienstags-Doppel",
+  },
+  Object {
+    "date": 1490437800000,
+    "link": Object {
+      "turnierid": "25414",
+      "ver": "1",
+    },
+    "location": "Kixx",
+    "state": "ended",
+    "title": "Einzelturnier",
+  },
+  Object {
+    "date": 1490383800000,
+    "link": Object {
+      "turnierid": "25405",
+      "ver": "1",
+    },
+    "location": "Hamburg",
+    "state": "ended",
+    "title": "FC St Pauli",
+  },
+  Object {
+    "date": 1490382000000,
+    "link": Object {
+      "turnierid": "25404",
+      "ver": "1",
+    },
+    "location": "Tante Käthe",
+    "state": "ended",
+    "title": "Mini-Challenger OD",
+  },
+  Object {
+    "date": 1490209200000,
+    "link": Object {
+      "turnierid": "25399",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1490121000000,
+    "link": Object {
+      "turnierid": "25398",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia Doppel",
+  },
+  Object {
+    "date": 1489924800000,
+    "link": Object {
+      "turnierid": "25307",
+      "ver": "1",
+    },
+    "location": "Bonn",
+    "state": "ended",
+    "title": "NWTFV-Minichallenger Kicker Crew Bonn e.V.",
+  },
+  Object {
+    "date": 1489917600000,
+    "link": Object {
+      "turnierid": "25382",
+      "ver": "1",
+    },
+    "location": "Tante Käthe",
+    "state": "ended",
+    "title": "1. Berliner Damen und Senioren Challenger",
+  },
+  Object {
+    "date": 1489863600000,
+    "link": Object {
+      "turnierid": "25380",
+      "ver": "1",
+    },
+    "location": "Amsterdam",
+    "state": "ended",
+    "title": "Club Foos Open Doubles",
+  },
+  Object {
+    "date": 1489834800000,
+    "link": Object {
+      "turnierid": "25377",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "2. Kixx Open 2017 - DTFB Challenger-Turnier",
+  },
+  Object {
+    "date": 1489779900000,
+    "link": Object {
+      "turnierid": "25375",
+      "ver": "1",
+    },
+    "location": "Hamburg, FCSP Clubheim",
+    "state": "ended",
+    "title": "FC St. Pauli KiezKickerKing",
+  },
+  Object {
+    "date": 1489777200000,
+    "link": Object {
+      "turnierid": "25372",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "3. Tante Käthe TFVB Mini-Challenger (OE)",
+  },
+  Object {
+    "date": 1489775400000,
+    "link": Object {
+      "turnierid": "25337",
+      "ver": "1",
+    },
+    "location": "Werne - NRW - Rubberduck e.V.",
+    "state": "ended",
+    "title": "Monster-DYP Serie",
+  },
+  Object {
+    "date": 1489604400000,
+    "link": Object {
+      "turnierid": "25365",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Kixx Mittwochsdoppel",
+  },
+  Object {
+    "date": 1489516200000,
+    "link": Object {
+      "turnierid": "25335",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia Offenes Doppel",
+  },
+  Object {
+    "date": 1489228200000,
+    "link": Object {
+      "turnierid": "25354",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Einzelturnierserie Kixx",
+  },
+  Object {
+    "date": 1488969000000,
+    "link": Object {
+      "turnierid": "25338",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1488911400000,
+    "link": Object {
+      "turnierid": "25304",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia OD Mini-Challenger #7",
+  },
+  Object {
+    "date": 1488722400000,
+    "link": Object {
+      "turnierid": "25302",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia OE Mini-Challenger #1",
+  },
+  Object {
+    "date": 1488654000000,
+    "link": Object {
+      "turnierid": "25318",
+      "ver": "1",
+    },
+    "location": "Amsterdam",
+    "state": "ended",
+    "title": "Club Foos Open Singles",
+  },
+  Object {
+    "date": 1488570300000,
+    "link": Object {
+      "turnierid": "25313",
+      "ver": "1",
+    },
+    "location": "St. Pauli Hamburg",
+    "state": "ended",
+    "title": "FC ST. Pauli Clubheim",
+  },
+  Object {
+    "date": 1488565800000,
+    "link": Object {
+      "turnierid": "25306",
+      "ver": "1",
+    },
+    "location": "Werne - NRW - Rubberduck e.V.",
+    "state": "ended",
+    "title": "Monster-DYP Serie",
+  },
+  Object {
+    "date": 1488394800000,
+    "link": Object {
+      "turnierid": "25305",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1488306600000,
+    "link": Object {
+      "turnierid": "25300",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia OD Mini-Challenger #6",
+  },
+  Object {
+    "date": 1488222000000,
+    "link": Object {
+      "turnierid": "25296",
+      "ver": "1",
+    },
+    "location": "Tante Käthe",
+    "state": "ended",
+    "title": "Tante Käthe Cup (BYP) Saison 1 Spieltag 8",
+  },
+  Object {
+    "date": 1487962800000,
+    "link": Object {
+      "turnierid": "25288",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "2. Tante Käthe TFVB Mini-Challenger (OE)",
+  },
+  Object {
+    "date": 1487790000000,
+    "link": Object {
+      "turnierid": "25282",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1487701800000,
+    "link": Object {
+      "turnierid": "25269",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia Mini-Challenger #5",
+  },
+  Object {
+    "date": 1487617200000,
+    "link": Object {
+      "turnierid": "25270",
+      "ver": "1",
+    },
+    "location": "Tante Käthe",
+    "state": "ended",
+    "title": "Tante Käthe Cup (BYP) Saison 1 Spieltag 7",
+  },
+  Object {
+    "date": 1487415600000,
+    "link": Object {
+      "turnierid": "25266",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "1. Kixx Open 2017 - DTFB Challenger",
+  },
+  Object {
+    "date": 1487413800000,
+    "link": Object {
+      "turnierid": "53",
+      "ver": "2",
+    },
+    "location": "Apollo, Kasinostr. 25, 42103 Wuppertal",
+    "state": "ended",
+    "title": "4. Wuppertaler Stadtmeisterschaft",
+  },
+  Object {
+    "date": 1487360700000,
+    "link": Object {
+      "turnierid": "25265",
+      "ver": "1",
+    },
+    "location": "FC St. Pauli Harald-Stender-Platz 1",
+    "state": "ended",
+    "title": "KiezKickerKing FC St. Pauli",
+  },
+  Object {
+    "date": 1487358000000,
+    "link": Object {
+      "turnierid": "25263",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "3. Tante Käthe TFVB Mini-Challenger",
+  },
+  Object {
+    "date": 1487356200000,
+    "link": Object {
+      "turnierid": "25260",
+      "ver": "1",
+    },
+    "location": "Werne - NRW - Rubberduck e.V.",
+    "state": "ended",
+    "title": "Mini-Challenger",
+  },
+  Object {
+    "date": 1487266200000,
+    "link": Object {
+      "turnierid": "46",
+      "ver": "2",
+    },
+    "location": "Rock 'n Roll Headquarter Pitcher Duesseldorf",
+    "state": "ended",
+    "title": "Vodafone Foosball",
+  },
+  Object {
+    "date": 1487185200000,
+    "link": Object {
+      "turnierid": "25258",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1487097000000,
+    "link": Object {
+      "turnierid": "25237",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99, Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia Mini-Challenger #4",
+  },
+  Object {
+    "date": 1487012400000,
+    "link": Object {
+      "turnierid": "25252",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "Tante Käthe Cup (BYP) Saison 1 Spieltag 6",
+  },
+  Object {
+    "date": 1486981800000,
+    "link": Object {
+      "turnierid": "52",
+      "ver": "2",
+    },
+    "location": "testz",
+    "state": "ended",
+    "title": "testuhl",
+  },
+  Object {
+    "date": 1486841400000,
+    "link": Object {
+      "turnierid": "25246",
+      "ver": "1",
+    },
+    "location": "Kixx, Nobistor 38, 22767 Hamburg",
+    "state": "ended",
+    "title": "Einzelturnierserie Kixx",
+  },
+  Object {
+    "date": 1486807200000,
+    "link": Object {
+      "turnierid": "25245",
+      "ver": "1",
+    },
+    "location": "Bredow Treff",
+    "state": "ended",
+    "title": "1. Berliner Challener Feb. 2017 OD",
+  },
+  Object {
+    "date": 1486753200000,
+    "link": Object {
+      "turnierid": "25240",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "Tante Käthe TFVB Mini-Challenger Classic",
+  },
+  Object {
+    "date": 1486580400000,
+    "link": Object {
+      "turnierid": "25235",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel",
+  },
+  Object {
+    "date": 1486492200000,
+    "link": Object {
+      "turnierid": "25219",
+      "ver": "1",
+    },
+    "location": "cassiopeia, Revaler Str. 99 - Tor II, 10245 Berlin",
+    "state": "ended",
+    "title": "cassiopeia Mini-Challenger #3",
+  },
+  Object {
+    "date": 1486407600000,
+    "link": Object {
+      "turnierid": "25231",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "Tante Käthe Cup (BYP) Saison 1 Spieltag 5",
+  },
+  Object {
+    "date": 1486234800000,
+    "link": Object {
+      "turnierid": "25229",
+      "ver": "1",
+    },
+    "location": "De Keet Amsterdam",
+    "state": "ended",
+    "title": "Club Foos Open Singles",
+  },
+  Object {
+    "date": 1486150200000,
+    "link": Object {
+      "turnierid": "25228",
+      "ver": "1",
+    },
+    "location": "FC St. Pauli Harald-Stender-Platz 1 Hamburg",
+    "state": "ended",
+    "title": "KiezKickerKing",
+  },
+  Object {
+    "date": 1486144800000,
+    "link": Object {
+      "turnierid": "51",
+      "ver": "2",
+    },
+    "location": "Hennef / Uckerath",
+    "state": "ended",
+    "title": "7. Partyhaus Landsknecht Kicker Cup",
+  },
+  Object {
+    "date": 1485975600000,
+    "link": Object {
+      "turnierid": "25221",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1485889200000,
+    "link": Object {
+      "turnierid": "25217",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Speedball Challenger Kixx",
+  },
+  Object {
+    "date": 1485887400000,
+    "link": Object {
+      "turnierid": "25198",
+      "ver": "1",
+    },
+    "location": "cassiopeia Berlin",
+    "state": "ended",
+    "title": "cassiopeia Mini-Challenger #2",
+  },
+  Object {
+    "date": 1485802800000,
+    "link": Object {
+      "turnierid": "25211",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "Tante Käthe Cup (BYP) Saison 1 Spieltag 4",
+  },
+  Object {
+    "date": 1485631800000,
+    "link": Object {
+      "turnierid": "25206",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Einzelturnierserie",
+  },
+  Object {
+    "date": 1485604800000,
+    "link": Object {
+      "turnierid": "22464",
+      "ver": "1",
+    },
+    "location": "Schwalbach",
+    "state": "ended",
+    "title": "Bonzini Einladungsturnier STFV",
+  },
+  Object {
+    "date": 1485426600000,
+    "link": Object {
+      "turnierid": "47",
+      "ver": "2",
+    },
+    "location": "Dortmund",
+    "state": "ended",
+    "title": "Classic Challenger",
+  },
+  Object {
+    "date": 1485370800000,
+    "link": Object {
+      "turnierid": "22566",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Classic Mittwochsdoppel",
+  },
+  Object {
+    "date": 1485340200000,
+    "link": Object {
+      "turnierid": "22568",
+      "ver": "1",
+    },
+    "location": "Gegenüber Bielefeld",
+    "state": "ended",
+    "title": "Einstufungsturnier-Teams",
+  },
+  Object {
+    "date": 1485285000000,
+    "link": Object {
+      "turnierid": "22563",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Speedball-Turnier",
+  },
+  Object {
+    "date": 1485282600000,
+    "link": Object {
+      "turnierid": "22565",
+      "ver": "1",
+    },
+    "location": "cassiopeia Berlin",
+    "state": "ended",
+    "title": "cassiopeia TFVB Mini-Challenger",
+  },
+  Object {
+    "date": 1485198000000,
+    "link": Object {
+      "turnierid": "22559",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "Tante Käthe Cup (BYP) Saison 1 Spieltag 3",
+  },
+  Object {
+    "date": 1485086400000,
+    "link": Object {
+      "turnierid": "22477",
+      "ver": "1",
+    },
+    "location": "Surwold",
+    "state": "ended",
+    "title": "1 Surwolder Stadtmeisterschaften 2017",
+  },
+  Object {
+    "date": 1485025200000,
+    "link": Object {
+      "turnierid": "22466",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "2. Tante Käthe TFVB Mini-Challenger",
+  },
+  Object {
+    "date": 1485000000000,
+    "link": Object {
+      "turnierid": "22463",
+      "ver": "1",
+    },
+    "location": "Halle(Saale)",
+    "state": "ended",
+    "title": "Champions Battle",
+  },
+  Object {
+    "date": 1484852400000,
+    "link": Object {
+      "turnierid": "22459",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Speedball Challenger",
+  },
+  Object {
+    "date": 1484766000000,
+    "link": Object {
+      "turnierid": "22458",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Classic Mittwochsdoppel",
+  },
+  Object {
+    "date": 1484679600000,
+    "link": Object {
+      "turnierid": "22455",
+      "ver": "1",
+    },
+    "location": "Kixx",
+    "state": "ended",
+    "title": "Speedball Challenger Kixx",
+  },
+  Object {
+    "date": 1484593200000,
+    "link": Object {
+      "turnierid": "22447",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "Tante Käthe Cup (BYP) Saison 1 Spieltag 2",
+  },
+  Object {
+    "date": 1484481600000,
+    "link": Object {
+      "turnierid": "22353",
+      "ver": "1",
+    },
+    "location": "Bonn",
+    "state": "ended",
+    "title": "NWTFV-Minichallenger Kicker Crew Bonn e.V.",
+  },
+  Object {
+    "date": 1484391600000,
+    "link": Object {
+      "turnierid": "22438",
+      "ver": "1",
+    },
+    "location": "BLZ / Kroekelbar",
+    "state": "ended",
+    "title": "Hannover Challenger",
+  },
+  Object {
+    "date": 1484334000000,
+    "link": Object {
+      "turnierid": "22434",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "1. Tante Käthe TFVB Mini-Challenger (Speedball)",
+  },
+  Object {
+    "date": 1484247600000,
+    "link": Object {
+      "turnierid": "22425",
+      "ver": "1",
+    },
+    "location": "Hamburg",
+    "state": "ended",
+    "title": "Speedball-Turnier Kixx",
+  },
+  Object {
+    "date": 1484242200000,
+    "link": Object {
+      "turnierid": "22424",
+      "ver": "1",
+    },
+    "location": "Dortmund",
+    "state": "ended",
+    "title": "Classic Monster DYP",
+  },
+  Object {
+    "date": 1484161200000,
+    "link": Object {
+      "turnierid": "22422",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Classic Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1484074800000,
+    "link": Object {
+      "turnierid": "22420",
+      "ver": "1",
+    },
+    "location": "Hamburg",
+    "state": "ended",
+    "title": "Speedball Challenger Kixx",
+  },
+  Object {
+    "date": 1483862400000,
+    "link": Object {
+      "turnierid": "22383",
+      "ver": "1",
+    },
+    "location": "Hotel Landsknecht",
+    "state": "ended",
+    "title": "Bundesligarelegation Damen 2017",
+  },
+  Object {
+    "date": 1483862400000,
+    "link": Object {
+      "turnierid": "22384",
+      "ver": "1",
+    },
+    "location": "Hotel Landsknecht",
+    "state": "ended",
+    "title": "Bundesligarelegation Senioren 2017",
+  },
+  Object {
+    "date": 1483817400000,
+    "link": Object {
+      "turnierid": "22410",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Einzelturnierserie",
+  },
+  Object {
+    "date": 1483817400000,
+    "link": Object {
+      "turnierid": "45",
+      "ver": "2",
+    },
+    "location": "de Kroeg, Brunssum",
+    "state": "ended",
+    "title": "TVC de Kroeg",
+  },
+  Object {
+    "date": 1483815600000,
+    "link": Object {
+      "turnierid": "22411",
+      "ver": "1",
+    },
+    "location": "De Keet Amsterdam",
+    "state": "ended",
+    "title": "Club Foos Open Singles",
+  },
+  Object {
+    "date": 1483790400000,
+    "link": Object {
+      "turnierid": "22409",
+      "ver": "1",
+    },
+    "location": "3RaumWohnung Oldenburg",
+    "state": "ended",
+    "title": "Challenger 01/2017",
+  },
+  Object {
+    "date": 1483783200000,
+    "link": Object {
+      "turnierid": "22382",
+      "ver": "1",
+    },
+    "location": "Hotel Landsknecht",
+    "state": "ended",
+    "title": "Bundesligarelegation Herren 2017",
+  },
+  Object {
+    "date": 1483729200000,
+    "link": Object {
+      "turnierid": "22405",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "1. Tante Käthe TFVB Mini-Challenger (OE)",
+  },
+  Object {
+    "date": 1483642800000,
+    "link": Object {
+      "turnierid": "22401",
+      "ver": "1",
+    },
+    "location": "Kixx",
+    "state": "ended",
+    "title": "Speedball Challenger Kixx",
+  },
+  Object {
+    "date": 1483637400000,
+    "link": Object {
+      "turnierid": "22399",
+      "ver": "1",
+    },
+    "location": "Dortmund",
+    "state": "ended",
+    "title": "Classic Challenger M-DYP",
+  },
+  Object {
+    "date": 1483556400000,
+    "link": Object {
+      "turnierid": "22392",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Classic Mittwochsdoppel",
+  },
+  Object {
+    "date": 1483032600000,
+    "link": Object {
+      "turnierid": "22376",
+      "ver": "1",
+    },
+    "location": "Dortmund",
+    "state": "ended",
+    "title": "Classic DYP",
+  },
+  Object {
+    "date": 1482951600000,
+    "link": Object {
+      "turnierid": "22374",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Classic Mittwochsdoppel",
+  },
+  Object {
+    "date": 1482346800000,
+    "link": Object {
+      "turnierid": "22367",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Classic Mittwochsdoppel",
+  },
+  Object {
+    "date": 1481970600000,
+    "link": Object {
+      "turnierid": "22229",
+      "ver": "1",
+    },
+    "location": "Münster",
+    "state": "ended",
+    "title": "Münsteraner Stadtmeisterschaft",
+  },
+  Object {
+    "date": 1481711400000,
+    "link": Object {
+      "turnierid": "22355",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Classic Mittwochsdoppel",
+  },
+  Object {
+    "date": 1481365800000,
+    "link": Object {
+      "turnierid": "22275",
+      "ver": "1",
+    },
+    "location": "Stiftsstraße 1, 56566 Neuwied (Heimbach-Weis)",
+    "state": "ended",
+    "title": "Challenger - TFBS Koblenz",
+  },
+  Object {
+    "date": 1481310000000,
+    "link": Object {
+      "turnierid": "22350",
+      "ver": "1",
+    },
+    "location": "Tante Käthe Berlin",
+    "state": "ended",
+    "title": "Mini-Challenger Tante Käthe",
+  },
+  Object {
+    "date": 1481137200000,
+    "link": Object {
+      "turnierid": "22345",
+      "ver": "1",
+    },
+    "location": "Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1480761000000,
+    "link": Object {
+      "turnierid": "22335",
+      "ver": "1",
+    },
+    "location": "Dortmund",
+    "state": "ended",
+    "title": "Battle of Champions - NWTFV",
+  },
+  Object {
+    "date": 1480761000000,
+    "link": Object {
+      "turnierid": "22337",
+      "ver": "1",
+    },
+    "location": "Dortmund",
+    "state": "ended",
+    "title": "Classic Challenger",
+  },
+  Object {
+    "date": 1480532400000,
+    "link": Object {
+      "turnierid": "22321",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel - Turnierserie",
+  },
+  Object {
+    "date": 1480242600000,
+    "link": Object {
+      "turnierid": "22309",
+      "ver": "1",
+    },
+    "location": "Münster",
+    "state": "ended",
+    "title": "Uni DM",
+  },
+  Object {
+    "date": 1479927600000,
+    "link": Object {
+      "turnierid": "22300",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1479637800000,
+    "link": Object {
+      "turnierid": "22292",
+      "ver": "1",
+    },
+    "location": "Medebach",
+    "state": "ended",
+    "title": "Deutsche Meisterschaft 2016 Einzel",
+  },
+  Object {
+    "date": 1479582000000,
+    "link": Object {
+      "turnierid": "22290",
+      "ver": "1",
+    },
+    "location": "Amsterdam",
+    "state": "ended",
+    "title": "Club Foos Open Doubles 19/11/16",
+  },
+  Object {
+    "date": 1479544200000,
+    "link": Object {
+      "turnierid": "40",
+      "ver": "2",
+    },
+    "location": "Medebach",
+    "state": "ended",
+    "title": "Deutsche Meisterschaft 2016 Doppel",
+  },
+  Object {
+    "date": 1479322800000,
+    "link": Object {
+      "turnierid": "22276",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1478979000000,
+    "link": Object {
+      "turnierid": "22265",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Einzelturnierserie Kixx",
+  },
+  Object {
+    "date": 1478946600000,
+    "link": Object {
+      "turnierid": "22264",
+      "ver": "1",
+    },
+    "location": "3RW",
+    "state": "ended",
+    "title": "1.NWO2017",
+  },
+  Object {
+    "date": 1478860200000,
+    "link": Object {
+      "turnierid": "22261",
+      "ver": "1",
+    },
+    "location": "Clubheim, Harald-Stender-Platz 1, 20359 Hamburg",
+    "state": "ended",
+    "title": "FC St. Pauli KiezKickerKing",
+  },
+  Object {
+    "date": 1478718000000,
+    "link": Object {
+      "turnierid": "22254",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1478372400000,
+    "link": Object {
+      "turnierid": "22249",
+      "ver": "1",
+    },
+    "location": "Amsterdam",
+    "state": "ended",
+    "title": "Open Singles 5 november",
+  },
+  Object {
+    "date": 1478343600000,
+    "link": Object {
+      "turnierid": "22039",
+      "ver": "1",
+    },
+    "location": "Checkpoint Altenkessel",
+    "state": "ended",
+    "title": "STFV B-Rangliste",
+  },
+  Object {
+    "date": 1478338200000,
+    "link": Object {
+      "turnierid": "22243",
+      "ver": "1",
+    },
+    "location": "Fränkisch Crumbach",
+    "state": "ended",
+    "title": "Junioren Bundesliga 2016",
+  },
+  Object {
+    "date": 1478113200000,
+    "link": Object {
+      "turnierid": "22237",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1477828800000,
+    "link": Object {
+      "turnierid": "22048",
+      "ver": "1",
+    },
+    "location": "Bonn",
+    "state": "ended",
+    "title": "NWTFV-Minichallenger Kicker Crew Bonn e.V.",
+  },
+  Object {
+    "date": 1477733400000,
+    "link": Object {
+      "turnierid": "22222",
+      "ver": "1",
+    },
+    "location": "Heiligenwald",
+    "state": "ended",
+    "title": "Multi Table Challenger",
+  },
+  Object {
+    "date": 1477679400000,
+    "link": Object {
+      "turnierid": "22221",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Halloween Special - 3er Teams",
+  },
+  Object {
+    "date": 1477670400000,
+    "link": Object {
+      "turnierid": "22050",
+      "ver": "1",
+    },
+    "location": "GrillCafé der Uni Paderborn",
+    "state": "ended",
+    "title": "Eröffnungsturnier WiSe 16-17",
+  },
+  Object {
+    "date": 1477504800000,
+    "link": Object {
+      "turnierid": "22213",
+      "ver": "1",
+    },
+    "location": "Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1477161000000,
+    "link": Object {
+      "turnierid": "22205",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Einzelturnierserie Kixx",
+  },
+  Object {
+    "date": 1477072800000,
+    "link": Object {
+      "turnierid": "22204",
+      "ver": "1",
+    },
+    "location": "Heimat+Hafen Bielefeld",
+    "state": "ended",
+    "title": "Kickern im Hafen (Einzel - Mini-Challenger)",
+  },
+  Object {
+    "date": 1477072800000,
+    "link": Object {
+      "turnierid": "22204",
+      "ver": "1",
+    },
+    "location": "Heimat+Hafen Bielefeld",
+    "state": "ended",
+    "title": "Kickern im Hafen (Einzel - Mini-Challenger)",
+  },
+  Object {
+    "date": 1476900000000,
+    "link": Object {
+      "turnierid": "22058",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1476615600000,
+    "link": Object {
+      "turnierid": "22049",
+      "ver": "1",
+    },
+    "location": "cassiopeia Berlin",
+    "state": "ended",
+    "title": "DTFB Speedball Challenger",
+  },
+  Object {
+    "date": 1476529200000,
+    "link": Object {
+      "turnierid": "22038",
+      "ver": "1",
+    },
+    "location": "St. Wendel / Saar",
+    "state": "ended",
+    "title": "Landesmeisterschaften Soccer",
+  },
+  Object {
+    "date": 1476525600000,
+    "link": Object {
+      "turnierid": "22045",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "6. Kixx Open 2016",
+  },
+  Object {
+    "date": 1476295200000,
+    "link": Object {
+      "turnierid": "22035",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1476005400000,
+    "link": Object {
+      "turnierid": "21146",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Landesmeisterschaften Hamburg 2016 Damen / Herren Einzel",
+  },
+  Object {
+    "date": 1476003600000,
+    "link": Object {
+      "turnierid": "21145",
+      "ver": "1",
+    },
+    "location": "Bredow Treff",
+    "state": "ended",
+    "title": "Berliner Meisterschaft 2016 - Einzel",
+  },
+  Object {
+    "date": 1475919000000,
+    "link": Object {
+      "turnierid": "32",
+      "ver": "2",
+    },
+    "location": "Dortmund",
+    "state": "ended",
+    "title": "Landesmeisterschaften",
+  },
+  Object {
+    "date": 1475917200000,
+    "link": Object {
+      "turnierid": "21140",
+      "ver": "1",
+    },
+    "location": "Kroekelbar",
+    "state": "ended",
+    "title": "Landesmeisterschaften",
+  },
+  Object {
+    "date": 1475917200000,
+    "link": Object {
+      "turnierid": "21141",
+      "ver": "1",
+    },
+    "location": "Bredow Treff",
+    "state": "ended",
+    "title": "Berliner Meisterchaft 2016",
+  },
+  Object {
+    "date": 1475914500000,
+    "link": Object {
+      "turnierid": "21139",
+      "ver": "1",
+    },
+    "location": "Andernach",
+    "state": "ended",
+    "title": "RPTFV-Landesmeisterschaften",
+  },
+  Object {
+    "date": 1475865000000,
+    "link": Object {
+      "turnierid": "21137",
+      "ver": "1",
+    },
+    "location": "FC St. Pauli Clubheim Hamburg",
+    "state": "ended",
+    "title": "KiezKickerKing",
+  },
+  Object {
+    "date": 1475690400000,
+    "link": Object {
+      "turnierid": "21125",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1475400600000,
+    "link": Object {
+      "turnierid": "27",
+      "ver": "2",
+    },
+    "location": "Haltern",
+    "state": "ended",
+    "title": "ITSF Pro Tour Einzel",
+  },
+  Object {
+    "date": 1475314200000,
+    "link": Object {
+      "turnierid": "21114",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Einzelturnierserie Kixx",
+  },
+  Object {
+    "date": 1475312400000,
+    "link": Object {
+      "turnierid": "21113",
+      "ver": "1",
+    },
+    "location": "Eschringen / TFC Folsterhöhe",
+    "state": "ended",
+    "title": "Saarlandmeisterschaften",
+  },
+  Object {
+    "date": 1475310600000,
+    "link": Object {
+      "turnierid": "18",
+      "ver": "2",
+    },
+    "location": "Haltern am See",
+    "state": "ended",
+    "title": "ITSF Pro Tour Doppel",
+  },
+  Object {
+    "date": 1475085600000,
+    "link": Object {
+      "turnierid": "21102",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel",
+  },
+  Object {
+    "date": 1474794000000,
+    "link": Object {
+      "turnierid": "21038",
+      "ver": "1",
+    },
+    "location": "Tante Käthe",
+    "state": "ended",
+    "title": "5. Damen und Senioren Challenger",
+  },
+  Object {
+    "date": 1474790400000,
+    "link": Object {
+      "turnierid": "21027",
+      "ver": "1",
+    },
+    "location": "Siersburg",
+    "state": "ended",
+    "title": "STFV A-Ranglisten Turnier",
+  },
+  Object {
+    "date": 1474741800000,
+    "link": Object {
+      "turnierid": "21036",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Einzelturnier",
+  },
+  Object {
+    "date": 1474480800000,
+    "link": Object {
+      "turnierid": "21028",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel",
+  },
+  Object {
+    "date": 1474200000000,
+    "link": Object {
+      "turnierid": "20997",
+      "ver": "1",
+    },
+    "location": "cassiopeia Berlin",
+    "state": "ended",
+    "title": "2. TFVB Mini-Challenger",
+  },
+  Object {
+    "date": 1474137000000,
+    "link": Object {
+      "turnierid": "21021",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Einzelturnierserie",
+  },
+  Object {
+    "date": 1474051500000,
+    "link": Object {
+      "turnierid": "21019",
+      "ver": "1",
+    },
+    "location": "Hamburg",
+    "state": "ended",
+    "title": "St. Pauli KiezKickerKing",
+  },
+  Object {
+    "date": 1473876000000,
+    "link": Object {
+      "turnierid": "21017",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1473532200000,
+    "link": Object {
+      "turnierid": "21008",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Einzelturnierserie",
+  },
+  Object {
+    "date": 1473499800000,
+    "link": Object {
+      "turnierid": "20991",
+      "ver": "1",
+    },
+    "location": "Ottweiler / Steinbach",
+    "state": "ended",
+    "title": "ITSF Bonzini Masters / Deutsch-Französische Tischfussball Tage",
+  },
+  Object {
+    "date": 1473271200000,
+    "link": Object {
+      "turnierid": "20994",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel",
+  },
+  Object {
+    "date": 1472896800000,
+    "link": Object {
+      "turnierid": "20986",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "5. Kixx Open 2016 ( DTFB Challenger)",
+  },
+  Object {
+    "date": 1472666400000,
+    "link": Object {
+      "turnierid": "20984",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1472382000000,
+    "link": Object {
+      "turnierid": "20972",
+      "ver": "1",
+    },
+    "location": "cassiopeia Berlin",
+    "state": "ended",
+    "title": "1. TFVB Mini-Challenger",
+  },
+  Object {
+    "date": 1472322600000,
+    "link": Object {
+      "turnierid": "20979",
+      "ver": "1",
+    },
+    "location": "Hamburg",
+    "state": "ended",
+    "title": "Kixx Einzelturnierserie",
+  },
+  Object {
+    "date": 1472292000000,
+    "link": Object {
+      "turnierid": "20974",
+      "ver": "1",
+    },
+    "location": "Schwalbach / Saarland",
+    "state": "ended",
+    "title": "Landesmeisterschaften / Bonzini",
+  },
+  Object {
+    "date": 1472290200000,
+    "link": Object {
+      "turnierid": "20951",
+      "ver": "1",
+    },
+    "location": "Düsseldorf",
+    "state": "ended",
+    "title": "2. Düsseldorfer Stadtmeisterschaft",
+  },
+  Object {
+    "date": 1472063400000,
+    "link": Object {
+      "turnierid": "20973",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1471717800000,
+    "link": Object {
+      "turnierid": "20964",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Einzelturnierserie",
+  },
+  Object {
+    "date": 1471690800000,
+    "link": Object {
+      "turnierid": "20953",
+      "ver": "1",
+    },
+    "location": "Siersburg",
+    "state": "ended",
+    "title": "Havanna",
+  },
+  Object {
+    "date": 1471687200000,
+    "link": Object {
+      "turnierid": "20961",
+      "ver": "1",
+    },
+    "location": "3Raumwohnung Oldenburg",
+    "state": "ended",
+    "title": "4. Nordwest Open",
+  },
+  Object {
+    "date": 1471456800000,
+    "link": Object {
+      "turnierid": "20952",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1470477600000,
+    "link": Object {
+      "turnierid": "20938",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "4. Kixx Open 2016",
+  },
+  Object {
+    "date": 1470475800000,
+    "link": Object {
+      "turnierid": "17",
+      "ver": "2",
+    },
+    "location": "BlueBox Siegen",
+    "state": "ended",
+    "title": "5. Siegener Stadtmeisterschaften",
+  },
+  Object {
+    "date": 1470247200000,
+    "link": Object {
+      "turnierid": "20926",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1469871000000,
+    "link": Object {
+      "turnierid": "19341",
+      "ver": "1",
+    },
+    "location": "TFC Schiffweiler",
+    "state": "ended",
+    "title": "B-Rangliste",
+  },
+  Object {
+    "date": 1469642400000,
+    "link": Object {
+      "turnierid": "20908",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1469347200000,
+    "link": Object {
+      "turnierid": "19337",
+      "ver": "1",
+    },
+    "location": "Tischfussball BLZ",
+    "state": "ended",
+    "title": "Challenger Hannover (Doppel am Sonntag)",
+  },
+  Object {
+    "date": 1469298600000,
+    "link": Object {
+      "turnierid": "20897",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Einzelturnierserie Kixx",
+  },
+  Object {
+    "date": 1469260800000,
+    "link": Object {
+      "turnierid": "19336",
+      "ver": "1",
+    },
+    "location": "Tischfußball BLZ",
+    "state": "ended",
+    "title": "Challenger Hannover",
+  },
+  Object {
+    "date": 1469037600000,
+    "link": Object {
+      "turnierid": "20891",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1468661400000,
+    "link": Object {
+      "turnierid": "15713",
+      "ver": "1",
+    },
+    "location": "MULTICULT, AM HAXTENHAUSENHOF 18, 33098 PADERBORN",
+    "state": "ended",
+    "title": "4. Paderborner Stadtmeisterschaft",
+  },
+  Object {
+    "date": 1468432800000,
+    "link": Object {
+      "turnierid": "18726",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1468056600000,
+    "link": Object {
+      "turnierid": "18716",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Einzelturnier",
+  },
+  Object {
+    "date": 1467828000000,
+    "link": Object {
+      "turnierid": "18707",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1467223200000,
+    "link": Object {
+      "turnierid": "18698",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1466618400000,
+    "link": Object {
+      "turnierid": "15717",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdopple Kixx",
+  },
+  Object {
+    "date": 1466323200000,
+    "link": Object {
+      "turnierid": "15709",
+      "ver": "1",
+    },
+    "location": "Bürgerhaus Rockershausen",
+    "state": "ended",
+    "title": "A-Rangliste 30 Jahre Braddock Burbach",
+  },
+  Object {
+    "date": 1466244000000,
+    "link": Object {
+      "turnierid": "15704",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "3. Kixx Open 2016",
+  },
+  Object {
+    "date": 1466013600000,
+    "link": Object {
+      "turnierid": "13065",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1465669800000,
+    "link": Object {
+      "turnierid": "13059",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Einzelturnierserie",
+  },
+  Object {
+    "date": 1465635600000,
+    "link": Object {
+      "turnierid": "16",
+      "ver": "2",
+    },
+    "location": "Grosswallstadt",
+    "state": "ended",
+    "title": "Tornado German Open",
+  },
+  Object {
+    "date": 1465410600000,
+    "link": Object {
+      "turnierid": "13052",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel",
+  },
+  Object {
+    "date": 1465205400000,
+    "link": Object {
+      "turnierid": "13045",
+      "ver": "1",
+    },
+    "location": "dortmund",
+    "state": "ended",
+    "title": "modo",
+  },
+  Object {
+    "date": 1465034400000,
+    "link": Object {
+      "turnierid": "13037",
+      "ver": "1",
+    },
+    "location": "Oldenburg",
+    "state": "ended",
+    "title": "Challenger",
+  },
+  Object {
+    "date": 1464804000000,
+    "link": Object {
+      "turnierid": "13022",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel",
+  },
+  Object {
+    "date": 1464460200000,
+    "link": Object {
+      "turnierid": "13016",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "1. Kixx Mixed 2016",
+  },
+  Object {
+    "date": 1464199200000,
+    "link": Object {
+      "turnierid": "13009",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel",
+  },
+  Object {
+    "date": 1463824800000,
+    "link": Object {
+      "turnierid": "12860",
+      "ver": "1",
+    },
+    "location": "Haus der Jugend, Grosse Gildewart 6-8, 49074 Osnabrück",
+    "state": "ended",
+    "title": "8. Osnabrücker Stadtmeisterschaften",
+  },
+  Object {
+    "date": 1463824800000,
+    "link": Object {
+      "turnierid": "13003",
+      "ver": "1",
+    },
+    "location": "FC St. Pauli Clubheim, Harald-Stender-Platz 1, 20359 HH",
+    "state": "ended",
+    "title": "1. FC St. Pauli Open 2016 - DTFB Challenger",
+  },
+  Object {
+    "date": 1463594400000,
+    "link": Object {
+      "turnierid": "12998",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel",
+  },
+  Object {
+    "date": 1463301000000,
+    "link": Object {
+      "turnierid": "12994",
+      "ver": "1",
+    },
+    "location": "HTW Berlin",
+    "state": "ended",
+    "title": "Berlin Open 2016 (Einzel)",
+  },
+  Object {
+    "date": 1463299200000,
+    "link": Object {
+      "turnierid": "12993",
+      "ver": "1",
+    },
+    "location": "Schützenhaus Schwalbach",
+    "state": "ended",
+    "title": "A-Rangliste TFK Köllerbach",
+  },
+  Object {
+    "date": 1463250600000,
+    "link": Object {
+      "turnierid": "12991",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Einzelturnier",
+  },
+  Object {
+    "date": 1463214600000,
+    "link": Object {
+      "turnierid": "12868",
+      "ver": "1",
+    },
+    "location": "HTW Berlin",
+    "state": "ended",
+    "title": "Berlin Open 2016",
+  },
+  Object {
+    "date": 1462989600000,
+    "link": Object {
+      "turnierid": "12982",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel",
+  },
+  Object {
+    "date": 1462384800000,
+    "link": Object {
+      "turnierid": "12975",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mittwochsdoppel",
+  },
+  Object {
+    "date": 1462208400000,
+    "link": Object {
+      "turnierid": "12974",
+      "ver": "1",
+    },
+    "location": "Kleine Freiheit | Rheinische Straße 96, 44137 Dortmund",
+    "state": "ended",
+    "title": "Offenes Doppel | Dortmunder Mini-Challenger",
+  },
+  Object {
+    "date": 1462041000000,
+    "link": Object {
+      "turnierid": "12929",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Einzelturnierserie",
+  },
+  Object {
+    "date": 1461780000000,
+    "link": Object {
+      "turnierid": "12925",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Mittwochsdoppel",
+  },
+  Object {
+    "date": 1461403800000,
+    "link": Object {
+      "turnierid": "12918",
+      "ver": "1",
+    },
+    "location": "Kixx",
+    "state": "ended",
+    "title": "Einzelturnier kixx",
+  },
+  Object {
+    "date": 1461175200000,
+    "link": Object {
+      "turnierid": "12910",
+      "ver": "1",
+    },
+    "location": "Kixx",
+    "state": "ended",
+    "title": "Mittwochsdoppel",
+  },
+  Object {
+    "date": 1460799000000,
+    "link": Object {
+      "turnierid": "12900",
+      "ver": "1",
+    },
+    "location": "3RW",
+    "state": "ended",
+    "title": "2.NordwestOpen16",
+  },
+  Object {
+    "date": 1460570400000,
+    "link": Object {
+      "turnierid": "12895",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Mittwochsdoppel",
+  },
+  Object {
+    "date": 1460280600000,
+    "link": Object {
+      "turnierid": "12893",
+      "ver": "1",
+    },
+    "location": "Ballsaal Millerntor, St. Pauli / Hamburg",
+    "state": "ended",
+    "title": "ITSF Pro Tour - Hamburg",
+  },
+  Object {
+    "date": 1460196000000,
+    "link": Object {
+      "turnierid": "12889",
+      "ver": "1",
+    },
+    "location": "Schwalbach",
+    "state": "ended",
+    "title": "Bonzini Challenger",
+  },
+  Object {
+    "date": 1460187000000,
+    "link": Object {
+      "turnierid": "10778",
+      "ver": "1",
+    },
+    "location": "Ballsaal Millerntor, St. Pauli / Hamburg",
+    "state": "ended",
+    "title": "ITSF Pro Tour - Hamburg",
+  },
+  Object {
+    "date": 1460134800000,
+    "link": Object {
+      "turnierid": "12869",
+      "ver": "1",
+    },
+    "location": "Bang Bang Münster",
+    "state": "ended",
+    "title": "Schovelkoten Mini-Challenger",
+  },
+  Object {
+    "date": 1459965600000,
+    "link": Object {
+      "turnierid": "12870",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger - Kixx Mittwochsdoppel",
+  },
+  Object {
+    "date": 1459789200000,
+    "link": Object {
+      "turnierid": "12866",
+      "ver": "1",
+    },
+    "location": "Kleine Freiheit | Rheinische Straße 96, 44137 Dortmund",
+    "state": "ended",
+    "title": "Offenes Doppel | Dortmunder Mini-Challenger",
+  },
+  Object {
+    "date": 1459677600000,
+    "link": Object {
+      "turnierid": "10789",
+      "ver": "1",
+    },
+    "location": "Tischfußball BLZ / Krökelbar",
+    "state": "ended",
+    "title": "Hannover Challenger No10 - Einzel",
+  },
+  Object {
+    "date": 1459621800000,
+    "link": Object {
+      "turnierid": "12861",
+      "ver": "1",
+    },
+    "location": "Hamburg",
+    "state": "ended",
+    "title": "Einzelturnier Kixx",
+  },
+  Object {
+    "date": 1459591200000,
+    "link": Object {
+      "turnierid": "10788",
+      "ver": "1",
+    },
+    "location": "Tischfußball BLZ Krökelbar",
+    "state": "ended",
+    "title": "Hannover Challenger No9 - Doppel",
+  },
+  Object {
+    "date": 1459330200000,
+    "link": Object {
+      "turnierid": "12855",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1458759600000,
+    "link": Object {
+      "turnierid": "12836",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1458556200000,
+    "link": Object {
+      "turnierid": "12819",
+      "ver": "1",
+    },
+    "location": "kleine Freiheit | Rheinische Straße 96, 44137 Dortmund",
+    "state": "ended",
+    "title": "kleine Freiheit Dortmund | Monster-D.Y.P",
+  },
+  Object {
+    "date": 1458154800000,
+    "link": Object {
+      "turnierid": "12806",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1457780400000,
+    "link": Object {
+      "turnierid": "12031",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "2. Kixx Open 2016 - DTFB Challenger",
+  },
+  Object {
+    "date": 1457550000000,
+    "link": Object {
+      "turnierid": "12023",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Mittwochsdoppel Kixx)",
+  },
+  Object {
+    "date": 1457375400000,
+    "link": Object {
+      "turnierid": "10786",
+      "ver": "1",
+    },
+    "location": "Kleine Freiheit, Rheinische Str. 96, 44137 Dortmund",
+    "state": "ended",
+    "title": "OD Dortmund",
+  },
+  Object {
+    "date": 1457260200000,
+    "link": Object {
+      "turnierid": "10794",
+      "ver": "1",
+    },
+    "location": "72793 Pfullingen",
+    "state": "ended",
+    "title": "ITSF Pro Tour Pfullingen - Einzel",
+  },
+  Object {
+    "date": 1457179200000,
+    "link": Object {
+      "turnierid": "10787",
+      "ver": "1",
+    },
+    "location": "Schwalbach",
+    "state": "ended",
+    "title": "Best of the Best",
+  },
+  Object {
+    "date": 1456945200000,
+    "link": Object {
+      "turnierid": "10783",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Minichallenger - Mittwochsdoppel Kixx",
+  },
+  Object {
+    "date": 1456601400000,
+    "link": Object {
+      "turnierid": "10779",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Einzelturnierserie Kixx",
+  },
+  Object {
+    "date": 1456425000000,
+    "link": Object {
+      "turnierid": "10766",
+      "ver": "1",
+    },
+    "location": "Deggendorf",
+    "state": "ended",
+    "title": "Mini - Challanger Deggendorf",
+  },
+  Object {
+    "date": 1456340400000,
+    "link": Object {
+      "turnierid": "10772",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1455996600000,
+    "link": Object {
+      "turnierid": "10765",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Einzelturnierserie",
+  },
+  Object {
+    "date": 1455906600000,
+    "link": Object {
+      "turnierid": "3",
+      "ver": "2",
+    },
+    "location": "Uckerath",
+    "state": "ended",
+    "title": "Partyhaus Landsknecht Kicker Cup",
+  },
+  Object {
+    "date": 1455735600000,
+    "link": Object {
+      "turnierid": "10762",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1455362100000,
+    "link": Object {
+      "turnierid": "10757",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "1. Kixx Open 2016 - Challenger",
+  },
+  Object {
+    "date": 1455130800000,
+    "link": Object {
+      "turnierid": "10752",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1454787000000,
+    "link": Object {
+      "turnierid": "5803",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger Einzel",
+  },
+  Object {
+    "date": 1454754600000,
+    "link": Object {
+      "turnierid": "5755",
+      "ver": "1",
+    },
+    "location": "Hardys Laerheidestr. 26 , 44799 Bochum",
+    "state": "ended",
+    "title": "Stadtmeisterschaften",
+  },
+  Object {
+    "date": 1454526000000,
+    "link": Object {
+      "turnierid": "5796",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1454409000000,
+    "link": Object {
+      "turnierid": "5788",
+      "ver": "1",
+    },
+    "location": "Kleine Freiheit, Dortmund",
+    "state": "ended",
+    "title": "OD Kleine Freiheit",
+  },
+  Object {
+    "date": 1454182200000,
+    "link": Object {
+      "turnierid": "5792",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Finale Mittwochsdoppel-Serie 2015",
+  },
+  Object {
+    "date": 1454095800000,
+    "link": Object {
+      "turnierid": "5791",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Einzelturnierserie Finale",
+  },
+  Object {
+    "date": 1453921200000,
+    "link": Object {
+      "turnierid": "5774",
+      "ver": "1",
+    },
+    "location": "Hamburg",
+    "state": "ended",
+    "title": "MittwochsDYP",
+  },
+  Object {
+    "date": 1453577400000,
+    "link": Object {
+      "turnierid": "5770",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger Einzel (Kixx Einzelturnierserie)",
+  },
+  Object {
+    "date": 1453316400000,
+    "link": Object {
+      "turnierid": "5769",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1452711600000,
+    "link": Object {
+      "turnierid": "5756",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1452337200000,
+    "link": Object {
+      "turnierid": "5752",
+      "ver": "1",
+    },
+    "location": "3RaumWohnung",
+    "state": "ended",
+    "title": "Neujahrs Open 2016 Oldenburg",
+  },
+  Object {
+    "date": 1451502000000,
+    "link": Object {
+      "turnierid": "5749",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1450897200000,
+    "link": Object {
+      "turnierid": "5746",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx-Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1450521000000,
+    "link": Object {
+      "turnierid": "5731",
+      "ver": "1",
+    },
+    "location": "Münster",
+    "state": "ended",
+    "title": "5. Münsteraner Stadtmeisterschaften",
+  },
+  Object {
+    "date": 1450292400000,
+    "link": Object {
+      "turnierid": "5741",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1449687600000,
+    "link": Object {
+      "turnierid": "5736",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1449082800000,
+    "link": Object {
+      "turnierid": "5734",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1448787600000,
+    "link": Object {
+      "turnierid": "5728",
+      "ver": "1",
+    },
+    "location": "Schwalbach",
+    "state": "ended",
+    "title": "Adventsturnier",
+  },
+  Object {
+    "date": 1448708400000,
+    "link": Object {
+      "turnierid": "5724",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "7. Kixx Open 2015",
+  },
+  Object {
+    "date": 1448447400000,
+    "link": Object {
+      "turnierid": "5721",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1447873200000,
+    "link": Object {
+      "turnierid": "5716",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1447489800000,
+    "link": Object {
+      "turnierid": "5715",
+      "ver": "1",
+    },
+    "location": "Medebach",
+    "state": "ended",
+    "title": "Deutsche Meisterschaft 2015",
+  },
+  Object {
+    "date": 1447268400000,
+    "link": Object {
+      "turnierid": "5710",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger / Kixx Mittwochsdoppel",
+  },
+  Object {
+    "date": 1446892200000,
+    "link": Object {
+      "turnierid": "5708",
+      "ver": "1",
+    },
+    "location": "Paderborn",
+    "state": "ended",
+    "title": "UNi DM 2015",
+  },
+  Object {
+    "date": 1446633000000,
+    "link": Object {
+      "turnierid": "5705",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger Kixx Mittwochsdoppel",
+  },
+  Object {
+    "date": 1446285600000,
+    "link": Object {
+      "turnierid": "5704",
+      "ver": "1",
+    },
+    "location": "Herten",
+    "state": "ended",
+    "title": "Landesmeisterschaften",
+  },
+  Object {
+    "date": 1446028200000,
+    "link": Object {
+      "turnierid": "5699",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger - Kixx Mittwochsdoppel",
+  },
+  Object {
+    "date": 1445419800000,
+    "link": Object {
+      "turnierid": "5698",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger - Kixx Mittwochsdoppel",
+  },
+  Object {
+    "date": 1445076000000,
+    "link": Object {
+      "turnierid": "600",
+      "ver": "1",
+    },
+    "location": "Haus der Jugend Osnabrueck",
+    "state": "ended",
+    "title": "7. Osnabruecker Stadtmeisterschaft",
+  },
+  Object {
+    "date": 1444845600000,
+    "link": Object {
+      "turnierid": "5696",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Mittwochsdoppel (Mini-Challenger)",
+  },
+  Object {
+    "date": 1444561200000,
+    "link": Object {
+      "turnierid": "5672",
+      "ver": "1",
+    },
+    "location": "Kixx - Hamburg",
+    "state": "ended",
+    "title": "Landesmeisterschaften Hamburg 2015 Einzel",
+  },
+  Object {
+    "date": 1444469400000,
+    "link": Object {
+      "turnierid": "626",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Landesmeisterschaften Hamburg 2015",
+  },
+  Object {
+    "date": 1444465800000,
+    "link": Object {
+      "turnierid": "622",
+      "ver": "1",
+    },
+    "location": "Herten",
+    "state": "ended",
+    "title": "ITSF ProTour",
+  },
+  Object {
+    "date": 1444240800000,
+    "link": Object {
+      "turnierid": "623",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger (Kixx Mittwochsdoppel)",
+  },
+  Object {
+    "date": 1443951000000,
+    "link": Object {
+      "turnierid": "612",
+      "ver": "1",
+    },
+    "location": "Kixx",
+    "state": "ended",
+    "title": "2. Kixx Open Einzel",
+  },
+  Object {
+    "date": 1443864600000,
+    "link": Object {
+      "turnierid": "609",
+      "ver": "1",
+    },
+    "location": "Kixx",
+    "state": "ended",
+    "title": "6. Kixx Open 2015",
+  },
+  Object {
+    "date": 1443778200000,
+    "link": Object {
+      "turnierid": "608",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Challenger - Kixx Open 2015 - Hamburg",
+  },
+  Object {
+    "date": 1443636000000,
+    "link": Object {
+      "turnierid": "606",
+      "ver": "1",
+    },
+    "location": "Kixx - Hamburg",
+    "state": "ended",
+    "title": "Mini-Challenger Kixx Mittwochsdoppel",
+  },
+  Object {
+    "date": 1442395800000,
+    "link": Object {
+      "turnierid": "601",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Mittwochsdoppel (Minichallenger)",
+  },
+  Object {
+    "date": 1441791000000,
+    "link": Object {
+      "turnierid": "599",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Mittwochsdoppel (Mini-Challenger)",
+  },
+  Object {
+    "date": 1441528200000,
+    "link": Object {
+      "turnierid": "592",
+      "ver": "1",
+    },
+    "location": "Remmesweiler",
+    "state": "ended",
+    "title": "Saarland Hansberg 2015 Sonntag",
+  },
+  Object {
+    "date": 1441445400000,
+    "link": Object {
+      "turnierid": "106",
+      "ver": "1",
+    },
+    "location": "Remmesweiler",
+    "state": "ended",
+    "title": "Saarlandmeisterschaft Handsberg 2015 Samstag",
+  },
+  Object {
+    "date": 1441389600000,
+    "link": Object {
+      "turnierid": "103",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Challenger - Damen & Seniorendoppel",
+  },
+  Object {
+    "date": 1441216800000,
+    "link": Object {
+      "turnierid": "98",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Mittwochsdoppel Minichallenger",
+  },
+  Object {
+    "date": 1440919800000,
+    "link": Object {
+      "turnierid": "92",
+      "ver": "1",
+    },
+    "location": "Grosswallstadt",
+    "state": "ended",
+    "title": "Tornado German Open 2015",
+  },
+  Object {
+    "date": 1440840600000,
+    "link": Object {
+      "turnierid": "89",
+      "ver": "1",
+    },
+    "location": "Grosswallstadt",
+    "state": "ended",
+    "title": "Tornado German Open 2015",
+  },
+  Object {
+    "date": 1440581400000,
+    "link": Object {
+      "turnierid": "88",
+      "ver": "1",
+    },
+    "location": "Kixx Hamburg",
+    "state": "ended",
+    "title": "Kixx Mittwochsdoppel (Minichallenger)",
+  },
+  Object {
+    "date": 1439026200000,
+    "link": Object {
+      "turnierid": "63",
+      "ver": "1",
+    },
+    "location": "Siegen",
+    "state": "ended",
+    "title": "4. Siegener Stadtmeisterschaften",
+  },
+  Object {
+    "date": 1439026200000,
+    "link": Object {
+      "turnierid": "80",
+      "ver": "1",
+    },
+    "location": "Schwalbach",
+    "state": "ended",
+    "title": "1. Saarland Open",
+  },
+  Object {
+    "date": 1437210000000,
+    "link": Object {
+      "turnierid": "55",
+      "ver": "1",
+    },
+    "location": "Paderborn",
+    "state": "ended",
+    "title": "3.Paderborner Stadtmeisterschaften",
+  },
+  Object {
+    "date": 1435915800000,
+    "link": Object {
+      "turnierid": "48",
+      "ver": "1",
+    },
+    "location": "Kixx - Hamburg",
+    "state": "ended",
+    "title": "3. Damen Open Kixx",
+  },
+  Object {
+    "date": 1435138200000,
+    "link": Object {
+      "turnierid": "41",
+      "ver": "1",
+    },
+    "location": "Kixx - Hamburg",
+    "state": "ended",
+    "title": "Kixx Mittwochsdoppel",
+  },
+  Object {
+    "date": 1434825000000,
+    "link": Object {
+      "turnierid": "40",
+      "ver": "1",
+    },
+    "location": "Kixx - Hamburg",
+    "state": "ended",
+    "title": "Challenger",
+  },
+  Object {
+    "date": 1434562200000,
+    "link": Object {
+      "turnierid": "39",
+      "ver": "1",
+    },
+    "location": "Kixx - Hamburg",
+    "state": "ended",
+    "title": "MittwochsDYP",
+  },
+  Object {
+    "date": 1434187800000,
+    "link": Object {
+      "turnierid": "38",
+      "ver": "1",
+    },
+    "location": "Kixx - Hamburg",
+    "state": "ended",
+    "title": "Einzelturnier",
+  },
+  Object {
+    "date": 1433583000000,
+    "link": Object {
+      "turnierid": "30",
+      "ver": "1",
+    },
+    "location": "Kleve",
+    "state": "ended",
+    "title": "3. Klever Stadtmeisterschaft",
+  },
+  Object {
+    "date": 1432369800000,
+    "link": Object {
+      "turnierid": "21",
+      "ver": "1",
+    },
+    "location": "HTW",
+    "state": "ended",
+    "title": "Berlin Open",
+  },
+  Object {
+    "date": 1427538600000,
+    "link": Object {
+      "turnierid": "12",
+      "ver": "1",
+    },
+    "location": "Marburg",
+    "state": "ended",
+    "title": "2. Mittelhessische Meisterschaften - ITSF Masters",
+  },
+  Object {
+    "date": 1425117600000,
+    "link": Object {
+      "turnierid": "3",
+      "ver": "1",
+    },
+    "location": "Uckerath",
+    "state": "ended",
+    "title": "Landsknecht Kicker Cup",
+  },
+  Object {
+    "date": 1425060000000,
+    "link": Object {
+      "turnierid": "2",
+      "ver": "1",
+    },
+    "location": "Uckerath",
+    "state": "ended",
+    "title": "Landsknecht Kicker Cup WarmUp Doppel",
+  },
+]
+`;
