@@ -8,7 +8,14 @@
     "build:watch": "npm run build -- --watch",
     "test": "jest",
     "test:watch": "npm run test -- --watch",
-    "fmt": "prettier --write --single-quote --trailing-comma=all --tab-width=4 'src/**/*.js'"
+    "fmt": "prettier --write --single-quote --trailing-comma=all --tab-width=4 'src/**/*.js'",
+    "precommit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.js": [
+      "prettier --write --single-quote --trailing-comma=all --tab-width=4",
+      "git add"
+    ]
   },
   "author": "",
   "license": "MIT",
@@ -20,7 +27,9 @@
   "devDependencies": {
     "babel-cli": "6.24.1",
     "babel-preset-env": "1.6.0",
+    "husky": "0.14.3",
     "jest": "20.0.4",
+    "lint-staged": "4.0.2",
     "prettier": "1.5.3",
     "rimraf": "2.6.1"
   }
