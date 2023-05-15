@@ -1,38 +1,36 @@
-import type { V2_MetaFunction } from "@remix-run/node";
+import { Container, List, ListItemButton, ListItemText } from "@mui/material";
+import { json, type V2_MetaFunction } from "@remix-run/node";
+import { Link, useLoaderData } from "@remix-run/react";
+import { getTournamentsList } from "~/models/tournaments.server";
 
 export const meta: V2_MetaFunction = () => {
-  return [{ title: "New Remix App" }];
+  return [{ title: "TiFu" }];
+};
+
+export const loader = async () => {
+  return json({
+    tournaments: await getTournamentsList(),
+  });
 };
 
 export default function Index() {
+  const { tournaments } = useLoaderData<typeof loader>();
   return (
-    <div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.4" }}>
-      <h1>Welcome to Remix</h1>
-      <ul>
-        <li>
-          <a
-            target="_blank"
-            href="https://remix.run/tutorials/blog"
-            rel="noreferrer"
+    <Container>
+      <List>
+        {tournaments.map((tournament) => (
+          <ListItemButton
+            component={Link}
+            to={`/tournament/${tournament.id}`}
+            key={tournament.id}
           >
-            15m Quickstart Blog Tutorial
-          </a>
-        </li>
-        <li>
-          <a
-            target="_blank"
-            href="https://remix.run/tutorials/jokes"
-            rel="noreferrer"
-          >
-            Deep Dive Jokes App Tutorial
-          </a>
-        </li>
-        <li>
-          <a target="_blank" href="https://remix.run/docs" rel="noreferrer">
-            Remix Docs
-          </a>
-        </li>
-      </ul>
-    </div>
+            <ListItemText
+              primary={tournament.name}
+              secondary={`Date: ${tournament.date} | City: ${tournament.location}`}
+            />
+          </ListItemButton>
+        ))}
+      </List>
+    </Container>
   );
 }
