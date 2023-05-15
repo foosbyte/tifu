@@ -1,4 +1,5 @@
 {
+  "name": "tifu",
   "private": true,
   "sideEffects": false,
   "scripts": {
@@ -7,7 +8,8 @@
     "start": "remix-serve build",
     "typecheck": "tsc",
     "lint": "eslint --ignore-path .gitignore . && prettier --ignore-path .gitignore -c .",
-    "fmt": "prettier -w ."
+    "fmt": "prettier -w .",
+    "test": "glob -c 'tsx --test' 'app/**/*.test.{ts,tsx}'"
   },
   "dependencies": {
     "@emotion/react": "^11.11.0",
@@ -30,10 +32,15 @@
     "@types/react": "^18.2.6",
     "@types/react-dom": "^18.2.4",
     "eslint": "^8.40.0",
+    "glob": "^10.2.4",
     "prettier": "^2.8.8",
+    "tsx": "^3.12.7",
     "typescript": "^5.0.4"
   },
   "engines": {
     "node": ">=20"
+  },
+  "volta": {
+    "node": "20.1.0"
   }
 }
