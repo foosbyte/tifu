@@ -5,7 +5,9 @@
     "build": "remix build",
     "dev": "remix dev",
     "start": "remix-serve build",
-    "typecheck": "tsc"
+    "typecheck": "tsc",
+    "lint": "eslint --ignore-path .gitignore . && prettier --ignore-path .gitignore -c .",
+    "fmt": "prettier -w ."
   },
   "dependencies": {
     "@emotion/react": "^11.11.0",
@@ -28,6 +30,7 @@
     "@types/react": "^18.2.6",
     "@types/react-dom": "^18.2.4",
     "eslint": "^8.40.0",
+    "prettier": "^2.8.8",
     "typescript": "^5.0.4"
   },
   "engines": {
