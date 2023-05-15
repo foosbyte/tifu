@@ -1,0 +1,23 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version-file: "package.json"
+          cache: "yarn"
+      - run: npm i -g yarn
+      - run: yarn
+      - run: yarn lint
+      - run: yarn typecheck
+      - run: yarn build
+      - run: yarn test
